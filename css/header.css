@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+.logo-search {
+    border: solid 1px black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    padding: 5px;
+}
+
+.logo-search-block {
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.search-box {
+    border: solid 1px black;
+    margin: 0 50px 0 50px;
+}
+
+.tech-logo {
+    border: solid 1px black;
+    margin: 0 50px 0 50px;
+}
+
+.minecraft-logo {
+    border: solid 1px black;
+    margin: 0 50px 0 50px;
+}
+
+.minecraft-logo img {
+    height: 35px;
+}

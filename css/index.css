@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    border: solid 1px black;
+    margin: 70px 0 0 0;
+}
+
+.menu-nav {
+    border: solid 1px black;
+}
+
+.nav-list {
+    border: solid 1px black;
+}
+
+.nav-list-ul {
+    border: solid 1px black;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.nav-list-li {
+    border: solid 1px black;
+    display: inline;
+    text-align: center;
+}
+
+.footer-contents {
+    border: solid 1px black;
+}
+
+.copyright {
+    border: solid 1px black;
+}
+
+@media screen and (min-width:767.98px) {
+    .logo-search {
+        height: 50px;
+    }
+}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
   <head prefix="og: http://ogp.me/ns#">
     <title>Minecraft Tech</title>
     <meta charset="utf-8">
@@ -10,25 +10,17 @@
     <link rel="icon" href="images/favicon.ico" sizes="180x180">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/header.css">
+    <script src="js/header.js"></script>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+      $(function() {
+        $("#header").load("header.html");
+      });
+    </script>
   </head>
   <body>
-    <header class="logo-search">
-      <div class="logo-search-block">
-        <div class="search-box">
-          <form action="search.html" accept-charset="UTF-8" autocomplete="on" method="get">
-            <input type="search" placeholder="検索">
-          </form>
-        </div>
-        <div class="tech-logo">
-          <a href="index.html">
-            <img src="image/tech-logo.png" alt="logo of tech in minecraft">
-          </a>
-        </div>
-        <div class="minecraft-logo">
-          <img src="image/minecraft-logo.png" alt="logo of minecraft">
-        </div>
-      </div>
-    </header>
+    <header id="header"></header>
     <nav class="menu-nav">
       <div class="nav-list">
         <ul class="nav-list-ul">
