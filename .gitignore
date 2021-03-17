@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Custom files
-.code-workspace
+tech-in-minecraft.code-workspace
