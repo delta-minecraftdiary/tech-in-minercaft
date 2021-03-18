@@ -1,0 +1,23 @@
+.menu-nav {
+    border: solid 1px black;
+}
+
+.nav-list {
+    border: solid 1px black;
+}
+
+.nav-list-ul {
+    border: solid 1px black;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding: 5px;
+}
+
+.nav-list-li {
+    border: solid 1px black;
+    display: inline;
+    text-align: center;
+    font-size: 20pt;
+    margin: 0px 40px 0px 40px;
+}
