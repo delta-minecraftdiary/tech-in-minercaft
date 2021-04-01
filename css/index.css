@@ -7,7 +7,8 @@
 
 body {
     border: solid 1px black;
-    margin: 80px auto 0 auto;
+    margin: 0 auto 0 auto;
+    /*margin: 80px auto 0 auto;*/
     min-width: 1140px;
 }
 
@@ -43,18 +44,4 @@ body {
 
 .news-li {
     border: solid 1px black;
-}
-
-.footer-contents {
-    border: solid 1px black;
-}
-
-.copyright {
-    border: solid 1px black;
-}
-
-@media screen and (min-width:767.98px) {
-    .logo-search {
-        height: 50px;
-    }
 }

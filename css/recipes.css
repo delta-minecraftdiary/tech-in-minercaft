@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    border: solid 1px black;
+    margin: 0 auto 0 auto;
+    min-width: 1140px;
+}
+
+#crafting-gui {
+    display: flex;
+    background-color: #C6C6C6;
+    padding: 10px;
+    margin: 0 1290px 0 25px;
+}
+
+#upper, #middle, #lower {
+    display: flex;
+}
+
+#arrow-block {
+    margin: auto 0 auto 4px;
+}
+
+#arrow {
+    display:inline-block;
+    height: 6px;
+    width: 18px;
+    background-color: #8B8B8B;
+    position:relative;
+}
+
+#arrow::before {
+    position:absolute;
+    content:"";
+    width:0;
+    height:0;
+    border:13px solid transparent;
+    border-left:solid 13px #8B8B8B;
+    left: 18px;
+    top: -10px;
+}
+
+.crafting-frame {
+    border-top: solid 2px #000000;
+    border-left: solid 2px #000000;
+    border-bottom: solid 2px #FFFFFF;
+    border-right: solid 2px #FFFFFF;
+    width: 32px;
+    height: 32px;
+    background-color: #8B8B8B;
+}
+
+#right-frame {
+    background-color: #8B8B8B;
+    border-top: solid 2px #000000;
+    border-left: solid 2px #000000;
+    border-bottom: solid 2px #FFFFFF;
+    border-right: solid 2px #FFFFFF;
+    margin: auto 0 auto 18px;
+    width: 48px;
+    height: 48px;
+}

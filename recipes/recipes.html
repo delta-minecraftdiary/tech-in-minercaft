@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head prefix="og: http://ogp.me/ns#">
+    <title>Tech in Minecraft</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="minecraft,マインクラフト,enchant,エンチャント,calculator,simulator,recipes,レシピ,YouTube,mod,モッド,1.0,1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1.10,1.11,1.12,1.13,1.14,1.15,1.16,1.17">
+    <!--<meta name="description" content="Minecraftに関する技術的な情報を発信するサイトです．">-->
+    <meta property="og:title" content="Tech in Minecraft">
+    <meta property="og:description" content="Minecraftに関する技術的な情報を発信するサイトです．">
+    <link rel="icon" href="../images/favicon.ico" sizes="180x180">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/recipes.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/nav.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <script src="../js/recipes.js"></script>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+      $(function() {
+        $(".logo-search").load("../header.html");
+        $(".menu-nav").load("../nav.html");
+        $(".footer-contents").load("../footer.html");
+        addImgTag();
+      });
+    </script>
+  </head>
+  <body>
+    <header class="logo-search"></header>
+    <nav class="menu-nav"></nav>
+    <article>
+      <div id="crafting-gui">
+        <div id="crafting-table">
+          <div id="upper">
+            <div id="cf1" class="crafting-frame"></div>
+            <div id="cf2" class="crafting-frame"></div>
+            <div id="cf3" class="crafting-frame"></div>
+          </div>
+          <div id="middle">
+            <div id="cf4" class="crafting-frame"></div>
+            <div id="cf5" class="crafting-frame"></div>
+            <div id="cf6" class="crafting-frame"></div>
+          </div>
+          <div id="lower">
+            <div id="cf7" class="crafting-frame"></div>
+            <div id="cf8" class="crafting-frame"></div>
+            <div id="cf9" class="crafting-frame"></div>
+          </div>
+        </div>
+        <div id="arrow-block">
+          <div id="arrow"></div>
+        </div>
+        <div id="right-frame"></div>
+      </div>
+      <div id="inventory-items">
+        
+      </div>
+      <div id="recipes"></div>
+    </article>
+  </body>
+  <footer class="footer-contents"></footer>
+</html>
