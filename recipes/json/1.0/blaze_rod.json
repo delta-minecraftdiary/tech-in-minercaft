@@ -1,0 +1,11 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Blaze Rod",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Blaze Powder",
+        "minecraft:Brewing Stand"
+    ]
+}

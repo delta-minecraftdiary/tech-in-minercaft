@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PPP",
+        "BBB",
+        "PPP"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        },
+        "B":{
+            "item":"minecraft:Book"
+        }
+    },
+    "result":{
+        "item":"minecraft:Bookshelf",
+        "count":1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "BB",
+        "BB"
+    ],
+    "key":{
+        "B":{
+            "item":"minecraft:Brick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Bricks",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Brick Stairs",
+        "minecraft:Bricks Slab"
+    ]
+}

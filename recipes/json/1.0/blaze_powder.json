@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Blaze Rod"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Blaze Powder",
+        "count":2
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        " B ",
+        "CCC"
+    ],
+    "key":{
+        "B":{
+            "item":"minecraft:Blaze Rod"
+        },
+        "C":{
+            "item":"minecraft:Cobblestone"
+        }
+    },
+    "result":{
+        "item":"minecraft:Brewing Stand",
+        "count":1
+    }
+}

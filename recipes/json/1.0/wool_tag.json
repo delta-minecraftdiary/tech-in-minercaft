@@ -1,0 +1,24 @@
+{
+    "type":"delta:tag",
+    "pattern":[
+        "minecraft:Black Wool",
+        "minecraft:Blue Wool",
+        "minecraft:Brown Wool",
+        "minecraft:Cyan Wool",
+        "minecraft:Gray Wool",
+        "minecraft:Green Wool",
+        "minecraft:Light Blue Wool",
+        "minecraft:Light Gray Wool",
+        "minecraft:Lime Wool",
+        "minecraft:Magenta Wool",
+        "minecraft:Orange Wool",
+        "minecraft:Pink Wool",
+        "minecraft:Purple Wool",
+        "minecraft:Red Wool",
+        "minecraft:Wool",
+        "minecraft:Yellow Wool"
+    ],
+    "result":{
+        "item":"delta:wool"
+    }
+}

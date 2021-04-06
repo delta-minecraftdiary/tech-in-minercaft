@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "III",
+        "III",
+        "III"
+    ],
+    "key":{
+        "I":{
+            "item":"minecraft:Iron Ingot"
+        }
+    },
+    "result":{
+        "item":"minecraft:Block of Iron",
+        "count":1
+    }
+}

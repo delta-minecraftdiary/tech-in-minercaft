@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "WWW",
+        "PPP"
+    ],
+    "key":{
+        "W":{
+            "item":"delta:wool"
+        },
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        }
+    },
+    "result":{
+        "item":"minecraft:Bed",
+        "count":1
+    }
+}
