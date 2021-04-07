@@ -1,10 +1,10 @@
 {
     "type":"delta:non_crafting_recipe",
     "result":{
-        "item":"minecraft:Apple",
+        "item":"minecraft:Ender Pearl",
         "count":1
     },
     "recipes":[
-        "minecraft:Golden Apple"
+        "minecraft:Eye of Ender"
     ]
 }

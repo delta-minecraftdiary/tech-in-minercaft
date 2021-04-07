@@ -6,6 +6,8 @@
     },
     "recipes":[
         "minecraft:Brewing Stand",
-        "minecraft:Cobblestone Slab"
+        "minecraft:Cobblestone Slab",
+        "minecraft:Dispenser",
+        "minecraft:Furnace"
     ]
 }

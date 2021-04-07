@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Spider Eye"
+        },
+        {
+            "item":"minecraft:Sugar"
+        },
+        {
+            "item":"minecraft:Mushroom(unclassified-1)"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Fermented Spider Eye",
+        "count":1
+    }
+}

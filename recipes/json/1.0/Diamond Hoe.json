@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "DD",
+        "S",
+        "S"
+    ],
+    "key":{
+        "D":{
+            "item":"minecraft:Diamond"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Diamond Hoe",
+        "count":1
+    }
+}

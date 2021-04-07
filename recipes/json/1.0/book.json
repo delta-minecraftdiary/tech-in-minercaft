@@ -15,6 +15,7 @@
         "count":1
     },
     "recipes":[
-        "minecraft:Bookshelf"
+        "minecraft:Bookshelf",
+        "minecraft:Enchantment Table"
     ]
 }

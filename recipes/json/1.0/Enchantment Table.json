@@ -1,0 +1,23 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        " B ",
+        "DOD",
+        "OOO"
+    ],
+    "key":{
+        "B":{
+            "item":"minecraft:Book"
+        },
+        "D":{
+            "item":"minecraft:Diamond"
+        },
+        "O":{
+            "item":"minecraft:Obsidian"
+        }
+    },
+    "result":{
+        "item":"minecraft:Enchantment Table",
+        "count":1
+    }
+}

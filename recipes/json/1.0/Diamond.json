@@ -1,0 +1,23 @@
+{
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Diamond Ore"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Diamond",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Diamond Block",
+        "minecraft:Diamond Axe",
+        "minecraft:Diamond Boots",
+        "minecraft:Diamond Chestplate",
+        "minecraft:Diamond Helmet",
+        "minecraft:Diamond Hoe",
+        "minecraft:Diamond Pickaxe",
+        "minecraft:Diamond Shovel",
+        "minecraft:Enchantment Table"
+    ]
+}

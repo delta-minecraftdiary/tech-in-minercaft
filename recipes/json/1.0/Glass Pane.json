@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "GGG",
+        "GGG"
+    ],
+    "key":{
+        "G":{
+            "item":"minecraft:Glass"
+        }
+    },
+    "result":{
+        "item":"minecraft:Glass Pane",
+        "count":16
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "D D",
+        "DDD",
+        "DDD"
+    ],
+    "key":{
+        "D":{
+            "item":"minecraft:Diamond"
+        }
+    },
+    "result":{
+        "item":"minecraft:Diamond Chestplate",
+        "count":1
+    }
+}

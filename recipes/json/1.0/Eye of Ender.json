@@ -1,0 +1,15 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Ender Pearl"
+        },
+        {
+            "item":"minecraft:Blaze Powder"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Eye of Ender",
+        "count":1
+    }
+}

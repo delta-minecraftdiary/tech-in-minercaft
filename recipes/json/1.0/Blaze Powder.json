@@ -8,5 +8,8 @@
     "result":{
         "item":"minecraft:Blaze Powder",
         "count":2
-    }
+    },
+    "recipes":[
+        "minecraft:Eye of Ender"
+    ]
 }

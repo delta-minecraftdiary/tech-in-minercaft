@@ -2,15 +2,15 @@
     "type":"minecraft:smelting",
     "ingredient":[
         {
-            "item":"minecraft:Cactus"
+            "item":"minecraft:Sand"
         }
     ],
     "result":{
-        "item":"minecraft:Cactus Green",
+        "item":"minecraft:Glass",
         "count":1
     },
     "recipes":[
-        "minecraft:Cyan Dye",
-        "minecraft:green Wool"
+        "minecraft:Glass Bottle",
+        "minecraft:Glass Pane"
     ]
 }

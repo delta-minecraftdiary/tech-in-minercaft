@@ -2,8 +2,8 @@
     "type":"minecraft:crafting_shaped",
     "pattern":[
         "GGG",
-        "GGG",
-        "GGG"
+        "G G",
+        "G G"
     ],
     "key":{
         "G":{
@@ -11,10 +11,7 @@
         }
     },
     "result":{
-        "item":"minecraft:Block of Gold",
+        "item":"minecraft:Golden Leggings",
         "count":1
-    },
-    "recipes":[
-        "minecraft:Golden Apple"
-    ]
+    }
 }

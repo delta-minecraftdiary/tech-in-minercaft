@@ -8,5 +8,8 @@
     "result":{
         "item":"minecraft:Bone Meal",
         "count":3
-    }
+    },
+    "recipes":[
+        "minecraft:Gray Dye"
+    ]
 }

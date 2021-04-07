@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "DD",
+        "SD",
+        "S "
+    ],
+    "key":{
+        "D":{
+            "item":"minecraft:Diamond"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Diamond Axe",
+        "count":1
+    }
+}

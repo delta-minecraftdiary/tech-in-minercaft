@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "G G",
+        " G "
+    ],
+    "key":{
+        "G":{
+            "item":"minecraft:Glass"
+        }
+    },
+    "result":{
+        "item":"minecraft:Glass Bottle",
+        "count":3
+    }
+}

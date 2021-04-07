@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Gold Ingot"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Gold Nugget",
+        "count":9
+    },
+    "recipes":[
+        "minecraft:Gold Ingot",
+        "Glistering Melon"
+    ]
+}

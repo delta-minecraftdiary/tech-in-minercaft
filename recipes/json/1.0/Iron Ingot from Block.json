@@ -1,0 +1,31 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Block of Iron"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Iron Ingot",
+        "count":9
+    },
+    "recipes":[
+        "minecraft:Block of Iron",
+        "minecraft:Bucket",
+        "minecraft:Cauldron",
+        "minecraft:Compass",
+        "minecraft:Detector Rail",
+        "minecraft:Flint and Steel",
+        "minecraft:Iron Axe",
+        "minecraft:Iron Bars",
+        "minecraft:Iron Boots",
+        "minecraft:Iron Chestplate",
+        "minecraft:Iron Door",
+        "minecraft:Iron Helmet",
+        "minecraft:Iron Hoe",
+        "minecraft:Iron Leggings",
+        "minecraft:Iron Pickaxe",
+        "minecraft:Iron Shovel",
+        "minecraft:Iron Sword"
+    ]
+}

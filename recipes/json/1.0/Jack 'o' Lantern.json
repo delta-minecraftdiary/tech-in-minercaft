@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "P",
+        "T"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Pumpkin"
+        },
+        "T":{
+            "item":"minecraft:Torch"
+        }
+    },
+    "result":{
+        "item":"minecraft:Jack 'o' Lantern",
+        "count":1
+    }
+}

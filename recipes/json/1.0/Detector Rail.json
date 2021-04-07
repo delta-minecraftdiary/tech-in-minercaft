@@ -1,0 +1,23 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "I I",
+        "IPI",
+        "IRI"
+    ],
+    "key":{
+        "I":{
+            "item":"minecraft:Iron Ingot"
+        },
+        "P":{
+            "item":"minecraft:Pressure Plate(unclassified-1)"
+        },
+        "R":{
+            "item":"minecraft:Redstone"
+        }
+    },
+    "result":{
+        "item":"minecraft:Detector Rail",
+        "count":6
+    }
+}

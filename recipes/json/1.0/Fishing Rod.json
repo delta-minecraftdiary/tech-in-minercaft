@@ -1,9 +1,9 @@
 {
     "type":"minecraft:crafting_shaped",
     "pattern":[
+        "  K",
         " KG",
-        "K G",
-        " KG"
+        "K G"
     ],
     "key":{
         "K":{
@@ -14,10 +14,7 @@
         }
     },
     "result":{
-        "item":"minecraft:Bow",
+        "item":"minecraft:Fishing Rod",
         "count":1
-    },
-    "recipes":[
-        "minecraft:Dispenser"
-    ]
+    }
 }

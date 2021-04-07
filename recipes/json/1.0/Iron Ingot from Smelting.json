@@ -2,11 +2,11 @@
     "type":"minecraft:smelting",
     "ingredient":[
         {
-            "item":"minecraft:Coal Ore"
+            "item":"minecraft:iron ore"
         }
     ],
     "result":{
-        "item":"minecraft:Coal",
+        "item":"minecraft:Iron Ingot",
         "count":1
     }
 }

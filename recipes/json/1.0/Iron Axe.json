@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "II",
+        "SI",
+        "S "
+    ],
+    "key":{
+        "I":{
+            "item":"minecraft:Iron Ingot"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Iron Axe",
+        "count":1
+    }
+}

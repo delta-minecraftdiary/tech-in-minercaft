@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Bone Meal"
+        },
+        {
+            "item":"minecraft:Ink Sac"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Gray Dye",
+        "count":2
+    },
+    "recipes":[
+        "minecraft:Gray Wool"
+    ]
+}

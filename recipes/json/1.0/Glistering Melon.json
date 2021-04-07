@@ -1,0 +1,15 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Melon(item)"
+        },
+        {
+            "item":"minecraft:Gold Nugget"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Glistering Melon",
+        "count":1
+    }
+}

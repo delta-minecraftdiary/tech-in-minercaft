@@ -1,0 +1,30 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "NNN",
+        "NNN",
+        "NNN"
+    ],
+    "key":{
+        "N":{
+            "item":"minecraft:Gold Nugget"
+        }
+    },
+    "result":{
+        "item":"minecraft:Gold Ingot",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Block of Gold",
+        "minecraft:Clock",
+        "minecraft:Golden Axe",
+        "minecraft:Golden Boots",
+        "minecraft:Golden Chestplate",
+        "minecraft:Golden Helmet",
+        "minecraft:Golden Hoe",
+        "minecraft:Golden Leggings",
+        "minecraft:Golden Pickaxe",
+        "minecraft:Golden Shovel",
+        "minecraft:Golden Sword"
+    ]
+}

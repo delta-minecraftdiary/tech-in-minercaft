@@ -2,19 +2,19 @@
     "type":"minecraft:crafting_shaped",
     "pattern":[
         "GGG",
-        "GGG",
-        "GGG"
+        " S ",
+        " S "
     ],
     "key":{
         "G":{
             "item":"minecraft:Gold Ingot"
+        },
+        "S":{
+            "item":"minecraft:Stick"
         }
     },
     "result":{
-        "item":"minecraft:Block of Gold",
+        "item":"minecraft:Golden Pickaxe",
         "count":1
-    },
-    "recipes":[
-        "minecraft:Golden Apple"
-    ]
+    }
 }

@@ -3,5 +3,8 @@
     "result":{
         "item":"minecraft:Coal Ore",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Coal Ore"
+    ]
 }

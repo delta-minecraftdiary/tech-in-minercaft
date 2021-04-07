@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Flower"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Dandelion Yellow",
+        "count":2
+    }
+}
