@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "I I",
+        " I "
+    ],
+    "key":{
+        "I":{
+            "item":"minecraft:Iron Ingot"
+        }
+    },
+    "result":{
+        "item":"minecraft:Bucket",
+        "count":1
+    }
+}

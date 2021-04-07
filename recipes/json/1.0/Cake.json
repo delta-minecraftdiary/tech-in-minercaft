@@ -1,0 +1,26 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "MMM",
+        "SES",
+        "WWW"
+    ],
+    "key":{
+        "M":{
+            "item":"minecraft:Milk"
+        },
+        "S":{
+            "item":"minecraft:Sugar"
+        },
+        "E":{
+            "item":"minecraft:Egg"
+        },
+        "W":{
+            "item":"minecraft:Wheat"
+        }
+    },
+    "result":{
+        "item":"minecraft:Cake",
+        "count":1
+    }
+}

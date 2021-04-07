@@ -1,5 +1,10 @@
 {
-    "type":"delta:non_crafting_recipe",
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Clay(item)"
+        }
+    ],
     "result":{
         "item":"minecraft:Brick",
         "count":1

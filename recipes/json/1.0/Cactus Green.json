@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Cactus"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Cactus Green",
+        "count":1
+    }
+}

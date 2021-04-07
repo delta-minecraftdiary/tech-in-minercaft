@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Raw Chicken"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Cooked Chicken",
+        "count":1
+    }
+}

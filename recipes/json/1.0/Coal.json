@@ -1,0 +1,7 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Coal",
+        "count":1
+    }
+}

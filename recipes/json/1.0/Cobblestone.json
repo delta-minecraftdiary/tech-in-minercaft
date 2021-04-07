@@ -1,0 +1,11 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Cobblestone",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Brewing Stand",
+        "minecraft:Cobblestone Slab"
+    ]
+}

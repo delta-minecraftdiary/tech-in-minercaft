@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Raw Porkchop"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Cooked Porkchop",
+        "count":1
+    }
+}

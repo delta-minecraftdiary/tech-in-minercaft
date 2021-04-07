@@ -1,0 +1,11 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Clay(item)",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Clay(block)",
+        "minecraft:Brick"
+    ]
+}

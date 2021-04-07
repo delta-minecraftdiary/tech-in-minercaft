@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "S",
+        "S"
+    ],
+    "key":{
+        "S":{
+            "item":"minecraft:Stone"
+        }
+    },
+    "result":{
+        "item":"minecraft:Button",
+        "count":1
+    }
+}

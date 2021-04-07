@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "CC",
+        "CC"
+    ],
+    "key":{
+        "C":{
+            "item":"minecraft:Clay(item)"
+        }
+    },
+    "result":{
+        "item":"minecraft:Clay(block)",
+        "count":1
+    }
+}

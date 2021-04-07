@@ -20,5 +20,8 @@
     ],
     "result":{
         "item":"delta:wool"
-    }
+    },
+    "recipes":[
+        "minecraft:Bed"
+    ]
 }

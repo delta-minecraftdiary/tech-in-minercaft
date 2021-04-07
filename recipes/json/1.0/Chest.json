@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PPP",
+        "P P",
+        "PPP"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        }
+    },
+    "result":{
+        "item":"minecraft:Chest",
+        "count":1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Cocoa Beans",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Brown Wool",
+        "minecraft:Cookie"
+    ]
+}
