@@ -1,0 +1,7 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Leaves(unclassified-3)",
+        "count":1
+    }
+}

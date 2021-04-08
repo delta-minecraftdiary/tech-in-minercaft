@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Pumpkin"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Pumpkin Seeds",
+        "count":4
+    }
+}

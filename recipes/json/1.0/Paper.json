@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "SSS"
+    ],
+    "key":{
+        "S":{
+            "item":"minecraft:Sugar Cane"
+        }
+    },
+    "result":{
+        "item":"minecraft:Paper",
+        "count":3
+    },
+    "recipes":[
+        "minecraft:Book",
+        "minecraft:Map"
+    ]
+}

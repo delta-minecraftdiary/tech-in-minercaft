@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "SS"
+    ],
+    "key":{
+        "S":{
+            "item":"minecraft:Stone"
+        }
+    },
+    "result":{
+        "item":"minecraft:Pressure Plate(unclassified-1)",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Detector Rail"
+    ]
+}

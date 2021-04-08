@@ -1,0 +1,11 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Pumpkin",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Jack 'o' Lantern",
+        "minecraft:Pumpkin Seeds"
+    ]
+}

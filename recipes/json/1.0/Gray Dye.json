@@ -13,6 +13,7 @@
         "count":2
     },
     "recipes":[
-        "minecraft:Gray Wool"
+        "minecraft:Gray Wool",
+        "minecraft:Light Gray Dye"
     ]
 }

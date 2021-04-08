@@ -13,5 +13,8 @@
     "result":{
         "item":"minecraft:Furnace",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Minecart with Furnace"
+    ]
 }

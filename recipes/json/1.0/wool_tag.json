@@ -19,9 +19,10 @@
         "minecraft:Yellow Wool"
     ],
     "result":{
-        "item":"delta:wool"
+        "item":"delta:Wool_tag"
     },
     "recipes":[
-        "minecraft:Bed"
+        "minecraft:Bed",
+        "minecraft:Painting"
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "SSS",
+        "SWS",
+        "SSS"
+    ],
+    "key":{
+        "W":{
+            "item":"delta:Wool_tag"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Arrow",
+        "count":4
+    }
+}

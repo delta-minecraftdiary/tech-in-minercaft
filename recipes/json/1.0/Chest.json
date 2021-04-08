@@ -13,5 +13,8 @@
     "result":{
         "item":"minecraft:Chest",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Minecart with Chest"
+    ]
 }

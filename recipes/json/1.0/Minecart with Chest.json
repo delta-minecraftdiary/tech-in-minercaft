@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "C",
+        "M"
+    ],
+    "key":{
+        "C":{
+            "item":"minecraft:Chest"
+        },
+        "M":{
+            "item":"minecraft:Minecart"
+        }
+    },
+    "result":{
+        "item":"minecraft:Minecart with Chest",
+        "count":1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Rose Red"
+        },
+        {
+            "item":"minecraft:Lapis Lazuli"
+        },
+        {
+            "item":"minecraft:Pink Dye"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Magenta Dye",
+        "count":3
+    },
+    "recipes":[
+        "minecraft:Magenta Wool"
+    ]
+}

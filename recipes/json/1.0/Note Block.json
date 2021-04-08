@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PPP",
+        "PRP",
+        "PPP"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        },
+        "R":{
+            "item":"minecraft:Redstone"
+        }
+    },
+    "result":{
+        "item":"minecraft:Note Block",
+        "count":1
+    }
+}

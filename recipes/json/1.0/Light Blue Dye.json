@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Bone Meal"
+        },
+        {
+            "item":"minecraft:Lapis Lazuli"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Light Blue Dye",
+        "count":2
+    },
+    "recipes":[
+        "minecraft:Light Blue Wool"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Lapis Lazuli Block"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Lapis lazuli",
+        "count":9
+    },
+    "recipes":[
+        "minecraft:Blue Wool",
+        "minecraft:Cyan Dye",
+        "minecraft:Lapis Lazuli Block",
+        "minecraft:Light Blue Dye",
+        "minecraft:Magenta Dye",
+        "minecraft:Purple Dye"
+    ]
+}

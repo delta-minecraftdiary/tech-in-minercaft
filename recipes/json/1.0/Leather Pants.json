@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "LLL",
+        "L L",
+        "L L"
+    ],
+    "key":{
+        "L":{
+            "item":"minecraft:Leather"
+        }
+    },
+    "result":{
+        "item":"minecraft:Leather Pants",
+        "count":1
+    }
+}

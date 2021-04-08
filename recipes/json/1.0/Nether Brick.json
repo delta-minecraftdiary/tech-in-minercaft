@@ -1,0 +1,11 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Nether Brick",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Nether Brick Fence",
+        "minecraft:Nether Brick Stairs"
+    ]
+}

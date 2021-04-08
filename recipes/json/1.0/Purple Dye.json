@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Lapis Lazuli"
+        },
+        {
+            "item":"minecraft:Rose Red"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Purple Dye",
+        "count":2
+    },
+    "recipes":[
+        "minecraft:Purple Wool"
+    ]
+}

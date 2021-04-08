@@ -1,0 +1,22 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "R",
+        "S"
+    ],
+    "key":{
+        "R":{
+            "item":"minecraft:Redstone"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Redstone Torch",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Redstone Repeater"
+    ]
+}

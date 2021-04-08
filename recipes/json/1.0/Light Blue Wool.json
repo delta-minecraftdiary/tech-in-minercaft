@@ -1,0 +1,15 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Wool"
+        },
+        {
+            "item":"minecraft:Light Blue Dye"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Light Blue Wool",
+        "count":1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "NNN",
+        "NNN"
+    ],
+    "key":{
+        "N":{
+            "item":"minecraft:Nether Brick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Nether Brick Fence",
+        "count":6
+    }
+}

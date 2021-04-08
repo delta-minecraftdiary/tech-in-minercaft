@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Bone Meal"
+        },
+        {
+            "item":"minecraft:Cactus Green"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Lime Dye",
+        "count":2
+    },
+    "recipes":[
+        "minecraft:Lime Wool"
+    ]
+}

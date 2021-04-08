@@ -8,5 +8,8 @@
     "result":{
         "item":"minecraft:Dandelion Yellow",
         "count":2
-    }
+    },
+    "recipes":[
+        "minecraft:Orange Dye"
+    ]
 }

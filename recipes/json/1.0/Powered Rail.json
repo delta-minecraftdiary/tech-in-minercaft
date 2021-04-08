@@ -1,0 +1,23 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "G G",
+        "GSG",
+        "GRG"
+    ],
+    "key":{
+        "G":{
+            "item":"minecraft:Gold Ingot"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        },
+        "R":{
+            "item":"minecraft:Redstone"
+        }
+    },
+    "result":{
+        "item":"minecraft:Powered Rail",
+        "count":6
+    }
+}

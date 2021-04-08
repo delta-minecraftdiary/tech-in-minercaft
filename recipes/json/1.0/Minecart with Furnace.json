@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "F",
+        "M"
+    ],
+    "key":{
+        "F":{
+            "item":"minecraft:Furnace"
+        },
+        "M":{
+            "item":"minecraft:Minecart"
+        }
+    },
+    "result":{
+        "item":"minecraft:Minecart with Furnace",
+        "count":1
+    }
+}

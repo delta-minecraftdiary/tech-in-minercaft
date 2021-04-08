@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "S",
+        "C"
+    ],
+    "key":{
+        "C":{
+            "item":"minecraft:CObblestone"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Lever",
+        "count":1
+    }
+}

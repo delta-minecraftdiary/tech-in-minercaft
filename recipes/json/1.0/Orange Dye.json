@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Dandelion Yellow"
+        },
+        {
+            "item":"minecraft:Rose Red"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Orange Dye",
+        "count":2
+    },
+    "recipes":[
+        "minecraft:Orange Wool"
+    ]
+}

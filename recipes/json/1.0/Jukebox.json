@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PPP",
+        "PDP",
+        "PPP"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        },
+        "D":{
+            "item":"minecraft:Diamond"
+        }
+    },
+    "result":{
+        "item":"minecraft:Jukebox",
+        "count":1
+    }
+}

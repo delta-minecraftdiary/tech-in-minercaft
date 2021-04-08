@@ -1,0 +1,13 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Leather",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Leather Boots",
+        "minecraft:Leather Cap",
+        "minecraft:Leather Pants",
+        "minecraft:Leather Tunic"
+    ]
+}

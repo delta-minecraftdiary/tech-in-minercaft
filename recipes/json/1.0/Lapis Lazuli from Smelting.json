@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Lapis Lazuli Ore"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Lapis Lazuli",
+        "count":1
+    }
+}

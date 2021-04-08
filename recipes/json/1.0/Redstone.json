@@ -1,0 +1,23 @@
+{
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Redstone Ore"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Redstone",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Clock",
+        "minecraft:Compass",
+        "minecraft:Detector Rail",
+        "minecraft:Dispenser",
+        "minecraft:Note Block",
+        "minecraft:Piston",
+        "minecraft:Powered Rail",
+        "minecraft:Redstone Repeater",
+        "minecraft:Redstone Torch"
+    ]
+}

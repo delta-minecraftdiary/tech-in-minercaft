@@ -16,5 +16,8 @@
     "result":{
         "item":"minecraft:Compass",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Map"
+    ]
 }

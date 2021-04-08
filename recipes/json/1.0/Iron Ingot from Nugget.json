@@ -31,6 +31,9 @@
         "minecraft:Iron Leggings",
         "minecraft:Iron Pickaxe",
         "minecraft:Iron Shovel",
-        "minecraft:Iron Sword"
+        "minecraft:Iron Sword",
+        "minecraft:Minecart",
+        "minecraft:Piston",
+        "minecraft:Rail"
     ]
 }

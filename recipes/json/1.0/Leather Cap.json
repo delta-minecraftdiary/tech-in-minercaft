@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "LLL",
+        "L L"
+    ],
+    "key":{
+        "L":{
+            "item":"minecraft:Leather"
+        }
+    },
+    "result":{
+        "item":"minecraft:Leather Cap",
+        "count":1
+    }
+}

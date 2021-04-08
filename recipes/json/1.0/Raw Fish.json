@@ -1,0 +1,10 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Raw Fish",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Cooked Fish"
+    ]
+}

@@ -12,5 +12,8 @@
     "result":{
         "item":"minecraft:Bowl",
         "count":4
-    }
+    },
+    "recipes":[
+        "minecraft:Mushroom Stew"
+    ]
 }

@@ -1,0 +1,26 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PPP",
+        "CIC",
+        "CRC"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        },
+        "C":{
+            "item":"minecraft:Cobblestone"
+        },
+        "I":{
+            "item":"minecraft:Iron Ingot"
+        },
+        "R":{
+            "item":"minecraft:Redstone"
+        }
+    },
+    "result":{
+        "item":"minecraft:Piston",
+        "count":1
+    }
+}

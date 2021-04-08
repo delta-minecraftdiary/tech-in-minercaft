@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Rose"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Rose Red",
+        "count":2
+    },
+    "recipes":[
+        "minecraft:Magenta Dye",
+        "minecraft:Pink Dye",
+        "minecraft:Red Wool"
+    ]
+}

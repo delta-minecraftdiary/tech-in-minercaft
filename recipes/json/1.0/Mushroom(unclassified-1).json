@@ -1,0 +1,11 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Mushroom(unclassified-1)",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Fermented Spider Eye",
+        "minecraft:Mushroom Stew"
+    ]
+}

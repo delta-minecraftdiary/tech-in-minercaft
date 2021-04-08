@@ -1,0 +1,10 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Lapis Lazuli Ore",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Lapis lazuli"
+    ]
+}

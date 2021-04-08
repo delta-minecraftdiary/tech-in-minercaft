@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PPP",
+        "PCP",
+        "PPP"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Paper"
+        },
+        "C":{
+            "item":"minecraft:Compass"
+        }
+    },
+    "result":{
+        "item":"minecraft:Map",
+        "count":1
+    }
+}

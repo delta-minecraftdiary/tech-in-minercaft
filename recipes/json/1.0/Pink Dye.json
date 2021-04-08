@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Bone Meal"
+        },
+        {
+            "item":"minecraft:Rose Red"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Pink Dye",
+        "count":2
+    },
+    "recipes":[
+        "minecraft:magenta Dye",
+        "minecraft:Pink Wool"
+    ]
+}

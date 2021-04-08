@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "L L",
+        "LLL",
+        "LLL"
+    ],
+    "key":{
+        "L":{
+            "item":"minecraft:Leather"
+        }
+    },
+    "result":{
+        "item":"minecraft:Leather Tunic",
+        "count":1
+    }
+}
