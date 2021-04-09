@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PP",
+        "PP",
+        "PP"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        }
+    },
+    "result":{
+        "item":"minecraft:Wooden Door",
+        "count":1
+    }
+}

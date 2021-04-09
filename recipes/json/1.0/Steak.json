@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Raw Beef"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Steak",
+        "count":1
+    }
+}

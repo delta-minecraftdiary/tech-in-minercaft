@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "CC",
+        "SC",
+        "S"
+    ],
+    "key":{
+        "C":{
+            "item":"minecraft:Cobblestone"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Stone Axe",
+        "count":1
+    }
+}

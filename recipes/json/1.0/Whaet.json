@@ -1,0 +1,12 @@
+{
+    "type":"delta:non_crafting_recipe",
+    "result":{
+        "item":"minecraft:Wheat",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Bread",
+        "minecraft:Cake",
+        "minecraft:Cookie"
+    ]
+}

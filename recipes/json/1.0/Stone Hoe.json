@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "CC",
+        "S ",
+        "S "
+    ],
+    "key":{
+        "C":{
+            "item":"minecraft:Cobblestone"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Stone Hoe",
+        "count":1
+    }
+}

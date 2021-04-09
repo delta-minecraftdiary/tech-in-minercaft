@@ -1,0 +1,53 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "P",
+        "P"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        }
+    },
+    "result":{
+        "item":"minecraft:Stick",
+        "count":4
+    },
+    "recipes":[
+        "minecraft:Arrow",
+        "minecraft:Bow",
+        "minecraft:Diamond Axe",
+        "minecraft:Diamond Hoe",
+        "minecraft:Diamond Pickaxe",
+        "minecraft:Diamond Shovel",
+        "minecraft:Fence",
+        "minecraft:Fishing Rod",
+        "minecraft:Golden Axe",
+        "minecraft:Golden Hoe",
+        "minecraft:Golden Pickaxe",
+        "minecraft:Golden Sword",
+        "minecraft:Golden Shovel",
+        "minecraft:Iron Axe",
+        "minecraft:Iron Hoe",
+        "minecraft:Iron Pickaxe",
+        "minecraft:Iron Shovel",
+        "minecraft:Iron Sword",
+        "minecraft:Ladder",
+        "minecraft:Lever",
+        "minecraft:Painting",
+        "minecraft:Powered Rail",
+        "minecraft:Rail",
+        "minecraft:Redstone Torch",
+        "minecraft:Sign",
+        "minecraft:Stone Axe",
+        "minecraft:Stone Hoe",
+        "minecraft:Stone Pickaxe",
+        "minecraft:Stone Shovel",
+        "minecraft:Stone Sword",
+        "minecraft:Torch",
+        "minecraft:Wooden Axe",
+        "minecraft:Wooden Hoe",
+        "minecraft:Wooden Pickaxe",
+        "minecraft:Wooden Shovel"
+    ]
+}

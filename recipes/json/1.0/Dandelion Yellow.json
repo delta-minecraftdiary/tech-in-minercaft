@@ -10,6 +10,7 @@
         "count":2
     },
     "recipes":[
-        "minecraft:Orange Dye"
+        "minecraft:Orange Dye",
+        "minecraft:Yellow Wool"
     ]
 }

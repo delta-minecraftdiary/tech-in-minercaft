@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "S  ",
+        "SS ",
+        "SSS"
+    ],
+    "key":{
+        "S":{
+            "item":"delta:Stone Bricks_tag"
+        }
+    },
+    "result":{
+        "item":"minecraft:Stone Brick Stairs",
+        "count":4
+    }
+}

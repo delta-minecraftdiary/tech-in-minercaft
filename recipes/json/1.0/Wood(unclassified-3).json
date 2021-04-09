@@ -1,10 +1,10 @@
 {
     "type":"delta:non_crafting_recipe",
     "result":{
-        "item":"minecraft:Gunpowder",
+        "item":"minecraft:Wood(unclassified-3)",
         "count":1
     },
     "recipes":[
-        "minecraft:Tnt"
+        "minecraft:Wooden Planks"
     ]
 }

@@ -1,0 +1,15 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PPP"
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        }
+    },
+    "result":{
+        "item":"minecraft:Wooden Slab",
+        "count":3
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:smelting",
+    "ingredient":[
+        {
+            "item":"minecraft:Cobblestone"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Stone",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Button",
+        "minecraft:Pressure Plate",
+        "minecraft:Redstone Repeater",
+        "minecraft:Stone Bricks",
+        "minecraft:Stone Slab"
+    ]
+}

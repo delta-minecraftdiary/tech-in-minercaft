@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "PP",
+        "S ",
+        "S "
+    ],
+    "key":{
+        "P":{
+            "item":"minecraft:Wooden Planks"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Wooden Hoe",
+        "count":1
+    }
+}

@@ -1,10 +1,10 @@
 {
     "type":"delta:non_crafting_recipe",
     "result":{
-        "item":"minecraft:Gunpowder",
+        "item":"minecraft:Snowball",
         "count":1
     },
     "recipes":[
-        "minecraft:Tnt"
+        "minecraft:Snow"
     ]
 }

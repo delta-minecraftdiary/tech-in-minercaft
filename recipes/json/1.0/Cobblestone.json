@@ -10,6 +10,13 @@
         "minecraft:Dispenser",
         "minecraft:Furnace",
         "minecraft:Lever",
-        "minecraft:Piston"
+        "minecraft:Piston",
+        "minecraft:Stone Axe",
+        "minecraft:Stone Hoe",
+        "minecraft:Stone Pickaxe",
+        "minecraft:Stone Shovel",
+        "minecraft:Stone Slab",
+        "minecraft:Stone Sword",
+        "minecraft:Stone"
     ]
 }

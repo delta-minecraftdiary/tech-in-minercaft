@@ -22,5 +22,8 @@
     "result":{
         "item":"minecraft:Piston",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Sticky Piston"
+    ]
 }

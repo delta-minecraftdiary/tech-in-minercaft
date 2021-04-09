@@ -1,0 +1,34 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"delta:Wood_tag"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Wooden Planks",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Bed",
+        "minecraft:Boat",
+        "minecraft:Bookshelf",
+        "minecraft:Bowl",
+        "minecraft:Chest",
+        "minecraft:Crafting Table",
+        "minecraft:Jukebox",
+        "minecraft:Note Block",
+        "minecraft:Piston",
+        "minecraft:Pressure Plate(unclassified-2)",
+        "minecraft:Sign",
+        "minecraft:Trapdoor",
+        "minecraft:Wooden Axe",
+        "minecraft:Wooden Door",
+        "minecraft:Wooden Hoe",
+        "minecraft:Wooden Pickaxe",
+        "minecraft:Wooden Shovel",
+        "minecraft:Wooden Slab",
+        "minecraft:Wooden Stairs",
+        "minecraft:Wooden Sword"
+    ]
+}

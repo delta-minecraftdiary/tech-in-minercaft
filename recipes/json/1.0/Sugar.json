@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:Sugar Cane"
+        }
+    ],
+    "result":{
+        "item":"minecraft:Sugar",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Cake",
+        "minecraft:Fermented Spider Eye"
+    ]
+}

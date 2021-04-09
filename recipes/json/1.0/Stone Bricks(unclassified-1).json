@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "SS",
+        "SS"
+    ],
+    "key":{
+        "S":{
+            "item":"minecraft:Stone"
+        }
+    },
+    "result":{
+        "item":"minecraft:Stone Bricks",
+        "count":4
+    },
+    "recipes":[
+        "minecraft:Stone Brick Stairs",
+        "minecraft:Stone Bricks Slab"
+    ]
+}

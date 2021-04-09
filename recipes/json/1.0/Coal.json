@@ -8,5 +8,8 @@
     "result":{
         "item":"minecraft:Coal",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Torch"
+    ]
 }

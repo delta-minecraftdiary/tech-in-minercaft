@@ -1,0 +1,22 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "C",
+        "S"
+    ],
+    "key":{
+        "C":{
+            "item":"minecraft:Coal"
+        },
+        "S":{
+            "item":"minecraft:Stick"
+        }
+    },
+    "result":{
+        "item":"minecraft:Torch",
+        "count":4
+    },
+    "recipes":[
+        "minecraft:Jack 'o' Lantern"
+    ]
+}

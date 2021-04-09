@@ -1,10 +1,11 @@
 {
     "type":"delta:non_crafting_recipe",
     "result":{
-        "item":"minecraft:Gunpowder",
+        "item":"minecraft:Sugar Cane",
         "count":1
     },
     "recipes":[
-        "minecraft:Tnt"
+        "minecraft:Sugar",
+        "minecraft:Paper"
     ]
 }

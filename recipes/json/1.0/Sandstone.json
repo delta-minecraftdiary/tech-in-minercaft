@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "SS",
+        "SS"
+    ],
+    "key":{
+        "S":{
+            "item":"minecraft:Sand"
+        }
+    },
+    "result":{
+        "item":"minecraft:Sandstone",
+        "count":1
+    },
+    "recipes":[
+        "minecraft:Sandstone Slab"
+    ]
+}

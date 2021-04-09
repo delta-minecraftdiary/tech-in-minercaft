@@ -1,0 +1,14 @@
+{
+    "type":"delta:tag",
+    "pattern":[
+        "minecraft:Wood(unclassified-1)",
+        "minecraft:Wood(unclassified-2)",
+        "minecraft:Wood(unclassified-3)"
+    ],
+    "result":{
+        "item":"delta:Wood_tag"
+    },
+    "recipes":[
+        "minecraft:Wooden Planks"
+    ]
+}

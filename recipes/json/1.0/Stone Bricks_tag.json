@@ -1,0 +1,15 @@
+{
+    "type":"delta:tag",
+    "pattern":[
+        "minecraft:Stone Bricks(unclassified-1)",
+        "minecraft:Stone Bricks(unclassified-2)",
+        "minecraft:Stone Bricks(unclassified-3)"
+    ],
+    "result":{
+        "item":"delta:Stone Bricks_tag"
+    },
+    "recipes":[
+        "minecraft:Stone Brick Stairs",
+        "minecraft:Stone Bricks Slab"
+    ]
+}
