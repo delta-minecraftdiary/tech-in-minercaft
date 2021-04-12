@@ -15,6 +15,7 @@
         "count":1
     },
     "recipes":[
-        "minecraft:Golden Apple"
+        "minecraft:Golden Apple",
+        "minecraft:Gold Ingot"
     ]
 }

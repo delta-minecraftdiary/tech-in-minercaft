@@ -11,5 +11,9 @@
     "result":{
         "item":"minecraft:Lime Wool",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Bed",
+        "minecraft:Painting"
+    ]
 }

@@ -11,5 +11,9 @@
     "result":{
         "item":"minecraft:Red Wool",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Bed",
+        "minecraft:Painting"
+    ]
 }

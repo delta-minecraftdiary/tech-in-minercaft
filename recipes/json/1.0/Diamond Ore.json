@@ -3,5 +3,8 @@
     "result":{
         "item":"minecraft:Diamond Ore",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Diamond"
+    ]
 }

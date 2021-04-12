@@ -20,6 +20,7 @@
         "minecraft:Diamond Hoe",
         "minecraft:Diamond Pickaxe",
         "minecraft:Diamond Shovel",
+        "minecraft:Diamond Sword",
         "minecraft:Fence",
         "minecraft:Fishing Rod",
         "minecraft:Golden Axe",
@@ -48,6 +49,7 @@
         "minecraft:Wooden Axe",
         "minecraft:Wooden Hoe",
         "minecraft:Wooden Pickaxe",
-        "minecraft:Wooden Shovel"
+        "minecraft:Wooden Shovel",
+        "minecraft:Wooden Sword"
     ]
 }

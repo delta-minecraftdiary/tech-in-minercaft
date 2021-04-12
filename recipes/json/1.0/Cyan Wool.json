@@ -11,5 +11,9 @@
     "result":{
         "item":"minecraft:Cyan Wool",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Cyan_Wool",
+        "minecraft:Painting"
+    ]
 }

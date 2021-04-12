@@ -13,5 +13,8 @@
     "result":{
         "item":"minecraft:Block of Iron",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Iron Ingot"
+    ]
 }

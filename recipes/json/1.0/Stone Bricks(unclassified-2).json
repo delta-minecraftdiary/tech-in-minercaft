@@ -3,5 +3,9 @@
     "result":{
         "item":"minecraft:Stone Bricks(unclassified-2)",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Stone Brick Stairs",
+        "minecraft:Stone Bricks Slab"
+    ]
 }

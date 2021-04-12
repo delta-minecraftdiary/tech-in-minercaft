@@ -13,5 +13,8 @@
     "result":{
         "item":"minecraft:Block of Diamond",
         "count":1
-    }
+    },
+    "recipes":[
+        "minecraft:Diamond"
+    ]
 }
