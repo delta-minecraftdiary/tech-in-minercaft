@@ -13,14 +13,12 @@
     <link rel="stylesheet" href="../css/header.css">
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/footer.css">
-    <script src="../js/recipes.js"></script>
     <script src="../js/jquery-3.6.0.min.js"></script>
-    <script type="text/javascript">
-      $(function() {
+    <script>
+      window.addEventListener('DOMContentLoaded', function(){
         $(".logo-search").load("../header.html");
         $(".menu-nav").load("../nav.html");
         $(".footer-contents").load("../footer.html");
-        addImgTag();
       });
     </script>
   </head>
@@ -28,34 +26,36 @@
     <header class="logo-search"></header>
     <nav class="menu-nav"></nav>
     <article>
-      <div id="crafting-gui">
-        <div id="crafting-table">
-          <div id="upper">
-            <div id="cf1" class="crafting-frame"></div>
-            <div id="cf2" class="crafting-frame"></div>
-            <div id="cf3" class="crafting-frame"></div>
+      <div id="crafting-gui-frame">
+        <h4>Crafting</h4>
+        <div id="crafting-gui">
+          <div id="crafting-table">
+            <div id="upper">
+              <div id="cf1" class="crafting-frame"></div>
+              <div id="cf2" class="crafting-frame"></div>
+              <div id="cf3" class="crafting-frame"></div>
+            </div>
+            <div id="middle">
+              <div id="cf4" class="crafting-frame"></div>
+              <div id="cf5" class="crafting-frame"></div>
+              <div id="cf6" class="crafting-frame"></div>
+            </div>
+            <div id="lower">
+              <div id="cf7" class="crafting-frame"></div>
+              <div id="cf8" class="crafting-frame"></div>
+              <div id="cf9" class="crafting-frame"></div>
+            </div>
           </div>
-          <div id="middle">
-            <div id="cf4" class="crafting-frame"></div>
-            <div id="cf5" class="crafting-frame"></div>
-            <div id="cf6" class="crafting-frame"></div>
+          <div id="arrow-block">
+            <div id="arrow"></div>
           </div>
-          <div id="lower">
-            <div id="cf7" class="crafting-frame"></div>
-            <div id="cf8" class="crafting-frame"></div>
-            <div id="cf9" class="crafting-frame"></div>
-          </div>
+          <div id="right-frame"></div>
         </div>
-        <div id="arrow-block">
-          <div id="arrow"></div>
-        </div>
-        <div id="right-frame"></div>
       </div>
-      <div id="inventory-items">
-        
-      </div>
+      <div id="inventory-items"></div>
       <div id="recipes"></div>
     </article>
+    <script src="../js/recipes.js"></script>
   </body>
   <footer class="footer-contents"></footer>
 </html>

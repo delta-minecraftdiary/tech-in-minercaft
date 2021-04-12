@@ -11,11 +11,20 @@ body {
     min-width: 1140px;
 }
 
+#crafting-gui-frame {
+    width: 220px;
+    padding: 20px;
+    background-color: #C6C6C6;
+    margin: 0 25px 0 25px;
+}
+
+#crafting-gui-frame > h4 {
+    padding: 0 0 20px 0;
+    font-family: 'Minecraft';
+}
+
 #crafting-gui {
     display: flex;
-    background-color: #C6C6C6;
-    padding: 10px;
-    margin: 0 1290px 0 25px;
 }
 
 #upper, #middle, #lower {
@@ -23,7 +32,7 @@ body {
 }
 
 #arrow-block {
-    margin: auto 0 auto 4px;
+    margin: auto 0 auto 10px;
 }
 
 #arrow {
@@ -61,7 +70,7 @@ body {
     border-left: solid 2px #000000;
     border-bottom: solid 2px #FFFFFF;
     border-right: solid 2px #FFFFFF;
-    margin: auto 0 auto 18px;
+    margin: auto 0 auto 25px;
     width: 48px;
     height: 48px;
 }

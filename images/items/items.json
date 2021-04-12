@@ -174,8 +174,6 @@
         "Music Disc(unclassified-9)":"レコード(strad)",
         "Music Disc(unclassified-10)":"レコード(ward)",
         "Music Disc(unclassified-11)":"レコード(11)",
-        "Music Disc(unclassified-12)":"レコード(wait)",
-        "Music Disc(unclassified-13)":"レコード(Pigstep)",
         "Mycelium":"菌糸",
         "Nether Brick Fence":"ネザーレンガのフェンス",
         "Nether Brick Stairs":"ネザーレンガの階段",
@@ -244,7 +242,7 @@
         "Stone Sword":"石の剣",
         "Stone":"石",
         "String":"糸",
-        "Sugar Cane":"サトウキビ",
+        "Sugar Canes":"サトウキビ",
         "Sugar":"砂糖",
         "Tnt":"TNT",
         "Torch":"松明",
@@ -266,5 +264,8 @@
         "Wooden Sword":"木の剣",
         "Wool":"羊毛(白色の羊毛)",
         "Yellow Wool":"黄色の羊毛"
+    },
+    "2.0":{
+        "Apple":"リンゴ"
     }
 }
