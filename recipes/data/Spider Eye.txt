@@ -1,0 +1,13 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Rarity color</td>      <td>Common</td>    </tr>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>    <tr>      <td>Restores</td>      <td>2 ()</td>    </tr>    <tr>      <td>Status effects</td>      <td>Poison (0:05)</td>    </tr>  </tbody></table>
+Obtaining
+Mob loot
+Spider
+Witches
+Chest loot
+<table border='1' class='dataframe'>  <thead>    <tr>      <th>Item</th>      <th>Structure</th>      <th>Container</th>      <th>Quantity</th>      <th>Chance</th>    </tr>    <tr>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>    </tr>  </thead>  <tbody>    <tr>      <td>Spider Eye</td>      <td>Desert temple</td>      <td>Chest</td>      <td>1–3</td>      <td>28.7%</td>    </tr>    <tr>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>    </tr>    <tr>      <td>Spider Eye</td>      <td>Desert temple</td>      <td>Chest</td>      <td>1–3</td>      <td>28.7%</td>    </tr>  </tbody></table>
+Usage
+Food
+Crafting ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Fermented Spider Eye</td>      <td>Brown Mushroom +Sugar +Spider Eye</td>      <td>-</td>    </tr>  </tbody></table>
+Brewing ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Brewing recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Mundane Potion</td>      <td>Spider Eye +Water Bottle</td>      <td>-</td>    </tr>    <tr>      <td>Potion of Poison</td>      <td>Spider Eye +Awkward Potion</td>      <td>-</td>    </tr>  </tbody></table>

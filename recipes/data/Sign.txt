@@ -1,0 +1,16 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (16)</td>    </tr>    <tr>      <td>Tool</td>      <td>-</td>    </tr>    <tr>      <td>Blast resistance</td>      <td>1</td>    </tr>    <tr>      <td>Hardness</td>      <td>1</td>    </tr>    <tr>      <td>Luminant</td>      <td>No</td>    </tr>    <tr>      <td>Transparent</td>      <td>Yes</td>    </tr>    <tr>      <td>Flammable</td>      <td>No</td>    </tr>    <tr>      <td>Catches fire from lava</td>      <td>No</td>    </tr>  </tbody></table>
+Obtaining
+Natural generation
+Breaking
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Block</th>      <th>Sign</th>      <th>Unnamed: 2</th>    </tr>  </thead>  <tbody>    <tr>      <td>Hardness</td>      <td>1</td>      <td>-</td>    </tr>    <tr>      <td>Tool</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <td>Breaking time[A]</td>      <td>Breaking time[A]</td>      <td>Breaking time[A]</td>    </tr>    <tr>      <td>Default</td>      <td>1.5</td>      <td>-</td>    </tr>    <tr>      <td>Wooden</td>      <td>0.75</td>      <td>-</td>    </tr>    <tr>      <td>Stone</td>      <td>0.4</td>      <td>-</td>    </tr>    <tr>      <td>Iron</td>      <td>0.25</td>      <td>-</td>    </tr>    <tr>      <td>Diamond</td>      <td>0.2</td>      <td>-</td>    </tr>    <tr>      <td>Netherite</td>      <td>0.2</td>      <td>-</td>    </tr>    <tr>      <td>Golden</td>      <td>0.15</td>      <td>-</td>    </tr>  </tbody></table>
+Chest loot
+<table border='1' class='dataframe'>  <thead>    <tr>      <th>Item</th>      <th>Structure</th>      <th>Container</th>      <th>Quantity</th>      <th>Chance</th>    </tr>    <tr>      <th>Bedrock Edition</th>      <th>Bedrock Edition</th>      <th>Bedrock Edition</th>      <th>Bedrock Edition</th>      <th>Bedrock Edition</th>    </tr>  </thead>  <tbody>    <tr>      <td>Oak Sign</td>      <td>Village</td>      <td>Taiga house chest</td>      <td>1</td>      <td>10.7%</td>    </tr>  </tbody></table>
+<table border='1' class='dataframe'>  <thead>    <tr>      <th>Item</th>      <th>Structure</th>      <th>Container</th>      <th>Quantity</th>      <th>Chance</th>    </tr>    <tr>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>    </tr>  </thead>  <tbody>    <tr>      <td>Spruce Sign</td>      <td>Village</td>      <td>Taiga house chest</td>      <td>1</td>      <td>9.7%</td>    </tr>  </tbody></table>
+Crafting
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Matching Planks +Stick</td>      <td>33333333</td>    </tr>  </tbody></table>
+Usage
+Placement
+Text
+Interaction
+Fuel
+Note Blocks

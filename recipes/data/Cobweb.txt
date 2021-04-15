@@ -1,0 +1,10 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Renewable</td>      <td>No</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>    <tr>      <td>Tools</td>      <td>-</td>    </tr>    <tr>      <td>Blast resistance</td>      <td>4</td>    </tr>    <tr>      <td>Hardness</td>      <td>4</td>    </tr>    <tr>      <td>Luminant</td>      <td>No</td>    </tr>    <tr>      <td>Transparent</td>      <td>Partial (diffuses sky light)</td>    </tr>    <tr>      <td>Flammable</td>      <td>No</td>    </tr>    <tr>      <td>Catches fire from lava</td>      <td>No</td>    </tr>  </tbody></table>
+Obtaining
+Breaking
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Block</th>      <th>Cobweb</th>      <th>Unnamed: 2</th>    </tr>  </thead>  <tbody>    <tr>      <td>Hardness</td>      <td>4</td>      <td>-</td>    </tr>    <tr>      <td>Breaking time</td>      <td>Breaking time</td>      <td>Breaking time</td>    </tr>    <tr>      <td>Default</td>      <td>20</td>      <td>-</td>    </tr>    <tr>      <td>Shears</td>      <td>0.4</td>      <td>-</td>    </tr>    <tr>      <td>Sword</td>      <td>0.4</td>      <td>-</td>    </tr>  </tbody></table>
+Natural generation
+Usage
+Redstone circuits
+Effects
+Crafting ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>      <th>Description</th>    </tr>  </thead>  <tbody>    <tr>      <td>String</td>      <td>Cobweb</td>      <td>9</td>      <td>‌[Bedrock Edition only]</td>    </tr>  </tbody></table>

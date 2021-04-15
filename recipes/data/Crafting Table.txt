@@ -1,0 +1,12 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>    <tr>      <td>Tool</td>      <td>-</td>    </tr>    <tr>      <td>Blast resistance</td>      <td>2.5</td>    </tr>    <tr>      <td>Hardness</td>      <td>2.5</td>    </tr>    <tr>      <td>Luminant</td>      <td>No</td>    </tr>    <tr>      <td>Transparent</td>      <td>No</td>    </tr>    <tr>      <td>Flammable</td>      <td>No</td>    </tr>    <tr>      <td>Catches fire from lava</td>      <td>Yes</td>    </tr>  </tbody></table>
+Obtaining
+Breaking
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Block</th>      <th>Crafting Table</th>      <th>Unnamed: 2</th>    </tr>  </thead>  <tbody>    <tr>      <td>Hardness</td>      <td>2.5</td>      <td>-</td>    </tr>    <tr>      <td>Tool</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <td>Breaking time[A]</td>      <td>Breaking time[A]</td>      <td>Breaking time[A]</td>    </tr>    <tr>      <td>Default</td>      <td>3.75</td>      <td>-</td>    </tr>    <tr>      <td>Wooden</td>      <td>1.9</td>      <td>-</td>    </tr>    <tr>      <td>Stone</td>      <td>0.95</td>      <td>-</td>    </tr>    <tr>      <td>Iron</td>      <td>0.65</td>      <td>-</td>    </tr>    <tr>      <td>Diamond</td>      <td>0.5</td>      <td>-</td>    </tr>    <tr>      <td>Netherite</td>      <td>0.45</td>      <td>-</td>    </tr>    <tr>      <td>Golden</td>      <td>0.35</td>      <td>-</td>    </tr>  </tbody></table>
+Natural generation
+Crafting
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Any Planks</td>      <td>-</td>    </tr>  </tbody></table>
+Usage
+Crafting
+Fuel
+Repairing
+Note Blocks

@@ -1,0 +1,10 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Rarity color</td>      <td>Common</td>    </tr>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>    <tr>      <td>Restores</td>      <td>2 ()</td>    </tr>    <tr>      <td>Status effects</td>      <td>Hunger (0:30) (30% chance)</td>    </tr>  </tbody></table>
+Obtaining
+Mob loot
+Cat gifts
+Usage
+Food
+Smelting ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Smelting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Cooked Chicken</td>      <td>Raw Chicken +Any fuel</td>      <td>0.35</td>    </tr>  </tbody></table>
+Wolves
+Trading

@@ -1,0 +1,39 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Rarity color</td>      <td>Common</td>    </tr>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>  </tbody></table>
+Obtaining
+Mob loot
+Usage
+Crafting ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>      <th>Description</th>    </tr>  </thead>  <tbody>    <tr>      <td>Blaze Powder</td>      <td>Blaze Rod</td>      <td>2.0</td>      <td>-</td>    </tr>    <tr>      <td>Brewing Stand</td>      <td>Blaze Rod +Any stone-tier block</td>      <td>-</td>      <td>‌[upcoming: JE 1.17]</td>    </tr>    <tr>      <td>Brewing Stand</td>      <td>Blaze Rod +Any Cobblestone or Blackstone</td>      <td>-</td>      <td>‌[until JE 1.17]</td>    </tr>    <tr>      <td>End Rod</td>      <td>Blaze Rod +Popped Chorus Fruit</td>      <td>4.0</td>      <td>-</td>    </tr>  </tbody></table>
+Fuel
+Achievements
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Icon</th>      <th>Icon.1</th>      <th>Achievement</th>      <th>In-game description</th>      <th>Actual requirements (if different)</th>      <th>Gamerscore earned</th>      <th>Trophy type (PS)</th>    </tr>  </thead>  <tbody>    <tr>      <td>-</td>      <td>-</td>      <td>Into Fire</td>      <td>Relieve a Blaze of its rod.</td>      <td>Pick up a blaze rod from the ground.</td>      <td>20G</td>      <td>Bronze</td>    </tr>  </tbody></table>
+Advancements
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Icon</th>      <th>Advancement</th>      <th>In-game description</th>      <th>Parent</th>      <th>Actual requirements (if different)</th>      <th>Namespaced ID</th>    </tr>  </thead>  <tbody>    <tr>      <td>-</td>      <td>Into Fire</td>      <td>Relieve a Blaze of its rod</td>      <td>A Terrible Fortress</td>      <td>Have a blaze rod in your inventory.</td>      <td>nether/obtain_blaze_rod</td>    </tr>  </tbody></table>
+Video
+Data values
+ID
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Form</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Blaze Rod</td>      <td>blaze_rod</td>      <td>Item</td>      <td>item.minecraft.blaze_rod</td>    </tr>  </tbody></table>
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Numeric ID</th>      <th>Form</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Blaze Rod</td>      <td>blaze_rod</td>      <td>369</td>      <td>Item</td>      <td>item.blaze_rod.name</td>    </tr>  </tbody></table>
+History
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Java Edition</th>      <th>Java Edition.1</th>      <th>Java Edition.2</th>      <th>Java Edition.3</th>      <th>Java Edition.4</th>      <th>Java Edition.5</th>    </tr>  </thead>  <tbody>    <tr>      <td>1.0.0</td>      <td>1.0.0</td>      <td>Beta 1.9 Prerelease</td>      <td>Beta 1.9 Prerelease</td>      <td>Beta 1.9 Prerelease</td>      <td>Added blaze rods.</td>    </tr>    <tr>      <td>1.0.0</td>      <td>1.0.0</td>      <td>Beta 1.9 Prerelease 2</td>      <td>Beta 1.9 Prerelease 2</td>      <td>Beta 1.9 Prerelease 2</td>      <td>Blaze rods are now used to craft blaze powder.</td>    </tr>    <tr>      <td>1.0.0</td>      <td>1.0.0</td>      <td>Beta 1.9 Prerelease 3</td>      <td>Beta 1.9 Prerelease 3</td>      <td>Beta 1.9 Prerelease 3</td>      <td>Blaze rods are now used to craft brewing stands.</td>    </tr>    <tr>      <td>1.8</td>      <td>1.8</td>      <td>14w07a</td>      <td>14w07a</td>      <td>14w07a</td>      <td>Blaze rods are now held similarly to tools.</td>    </tr>    <tr>      <td>1.9</td>      <td>1.9</td>      <td>15w44b</td>      <td>15w44b</td>      <td>15w44b</td>      <td>Blaze rods are now used to craft end rods.</td>    </tr>    <tr>      <td>1.13</td>      <td>1.13</td>      <td>17w47a</td>      <td>17w47a</td>      <td>17w47a</td>      <td>Prior to The Flattening, this item's numeral ID was 369.</td>    </tr>    <tr>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>    </tr>    <tr>      <td>v0.12.1</td>      <td>v0.12.1</td>      <td>build 1</td>      <td>build 1</td>      <td>build 1</td>      <td>Added blaze rods.</td>    </tr>    <tr>      <td>v0.12.1</td>      <td>v0.12.1</td>      <td>build 1</td>      <td>build 1</td>      <td>build 1</td>      <td>Blaze rods can be used to craft blaze powder and brewing stands.</td>    </tr>    <tr>      <td>Pocket Edition</td>      <td>Pocket Edition</td>      <td>Pocket Edition</td>      <td>Pocket Edition</td>      <td>Pocket Edition</td>      <td>Pocket Edition</td>    </tr>    <tr>      <td>1.0.0</td>      <td>1.0.0</td>      <td>alpha 0.17.0.1</td>      <td>alpha 0.17.0.1</td>      <td>alpha 0.17.0.1</td>      <td>Blaze rods are now used to craft end rods.</td>    </tr>    <tr>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>    </tr>    <tr>      <td>TU7</td>      <td>CU1</td>      <td>1.00</td>      <td>Patch 1</td>      <td>1.0.1</td>      <td>Added blaze rods.</td>    </tr>    <tr>      <td>TU7</td>      <td>CU1</td>      <td>1.00</td>      <td>Patch 1</td>      <td>1.0.1</td>      <td>Blaze rods can be used to craft blaze powder and brewing stands.</td>    </tr>    <tr>      <td>TU46</td>      <td>CU36</td>      <td>1.38</td>      <td>Patch 15</td>      <td>1.0.1</td>      <td>Blaze rods are now used to craft end rods.</td>    </tr>    <tr>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>    </tr>    <tr>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>Added blaze rods.</td>    </tr>    <tr>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>Blaze rods can be used to craft blaze powder and brewing stands.</td>    </tr>  </tbody></table>
+Issues
+Navigation menu
+Namespaces
+Variants
+Share
+Views
+More
+Search
+Minecraft Wiki
+Games
+Useful pages
+Minecraft links
+Gamepedia
+Tools
+In other languages
+
+Explore Properties
+Follow Us
+Overview
+Community
+Advertise

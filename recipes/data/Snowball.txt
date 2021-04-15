@@ -1,0 +1,15 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Rarity color</td>      <td>Common</td>    </tr>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (16) Yes (64)‌[upcoming: JE Combat Tests]</td>    </tr>    <tr>      <td>Size</td>      <td>Height: 0.25 BlocksWidth: 0.25 Blocks</td>    </tr>  </tbody></table>
+Obtaining
+Mining
+Creepers / TNT
+Ravagers
+Pistons
+Water
+Mob loot
+Chest loot
+<table border='1' class='dataframe'>  <thead>    <tr>      <th>Item</th>      <th>Structure</th>      <th>Container</th>      <th>Quantity</th>      <th>Chance</th>    </tr>    <tr>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>    </tr>  </thead>  <tbody>    <tr>      <td>Snowball</td>      <td>Village</td>      <td>Snowy house chest</td>      <td>1–7</td>      <td>66.3%</td>    </tr>    <tr>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>    </tr>    <tr>      <td>Snowball</td>      <td>Village</td>      <td>Snowy house chest</td>      <td>1–7</td>      <td>66.3%</td>    </tr>  </tbody></table>
+Usage
+Crafting ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Snow Block</td>      <td>Snowball</td>      <td>-</td>    </tr>  </tbody></table>
+Combat
+Dispenser

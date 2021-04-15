@@ -1,0 +1,26 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Rarity color</td>      <td>Common</td>    </tr>    <tr>      <td>Durability</td>      <td>64</td>    </tr>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>No</td>    </tr>  </tbody></table>
+Obtaining
+Crafting
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Ingredients</th>      <th>Crafting recipe</th>      <th>Description</th>    </tr>  </thead>  <tbody>    <tr>      <td>Stick +String</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <td>Damaged Fishing Rod</td>      <td>-</td>      <td>The durability of the two fishing rods is added together, plus an extra 5% durability.</td>    </tr>  </tbody></table>
+Fishing
+Trading
+Natural generation
+<table border='1' class='dataframe'>  <thead>    <tr>      <th>Item</th>      <th>Structure</th>      <th>Container</th>      <th>Quantity</th>      <th>Chance</th>    </tr>    <tr>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>    </tr>  </thead>  <tbody>    <tr>      <td>Enchanted Fishing Rod[A]</td>      <td>Underwater ruins</td>      <td>Big ruins chest</td>      <td>1</td>      <td>21.7%</td>    </tr>    <tr>      <td>Enchanted Fishing Rod[A]</td>      <td>Underwater ruins</td>      <td>Small ruins chest</td>      <td>1</td>      <td>41.7%</td>    </tr>    <tr>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>    </tr>    <tr>      <td>Enchanted Fishing Rod[A]</td>      <td>Underwater ruins</td>      <td>Big ruins chest</td>      <td>1</td>      <td>21.7%</td>    </tr>    <tr>      <td>Enchanted Fishing Rod[A]</td>      <td>Underwater ruins</td>      <td>Small ruins chest</td>      <td>1</td>      <td>41.7%</td>    </tr>  </tbody></table>
+Carrot or warped fungus on a stick
+Mob loot
+Usage
+Fishing
+Crafting ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>      <th>Description</th>    </tr>  </thead>  <tbody>    <tr>      <td>Carrot on a Stick</td>      <td>Fishing Rod orDamaged Fishing Rod +Carrot</td>      <td>-</td>      <td>The fishing rod must be diagonally above the carrot to craft the carrot on a stick.</td>    </tr>    <tr>      <td>Warped Fungus on a Stick</td>      <td>Fishing Rod orDamaged Fishing Rod +Warped Fungus</td>      <td>-</td>      <td>-</td>    </tr>  </tbody></table>
+Hooking mobs and other entities
+Fuel
+Other usage
+Enchantments
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Max Level</th>      <th>Method</th>    </tr>  </thead>  <tbody>    <tr>      <td>Lure[note 1]</td>      <td>III</td>      <td>-</td>    </tr>    <tr>      <td>Luck of the Sea</td>      <td>III</td>      <td>-</td>    </tr>    <tr>      <td>Unbreaking</td>      <td>III</td>      <td>-</td>    </tr>    <tr>      <td>Mending</td>      <td>I</td>      <td>-</td>    </tr>    <tr>      <td>Curse of Vanishing</td>      <td>I</td>      <td>-</td>    </tr>  </tbody></table>
+Fishing Bobber
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Network ID</td>      <td>JE: 90</td>    </tr>  </tbody></table>
+Data values
+ID
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Fishing Bobber</td>      <td>fishing_bobber</td>      <td>entity.minecraft.fishing_bobber</td>    </tr>  </tbody></table>
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Numeric ID</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Fishing Bobber</td>      <td>fishing_hook</td>      <td>77</td>      <td>entity.fishing_hook.name</td>    </tr>  </tbody></table>
+Entity data

@@ -1,0 +1,15 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>    <tr>      <td>Tool</td>      <td>Any tool</td>    </tr>    <tr>      <td>Blast resistance</td>      <td>0</td>    </tr>    <tr>      <td>Hardness</td>      <td>0</td>    </tr>    <tr>      <td>Luminant</td>      <td>No</td>    </tr>    <tr>      <td>Transparent</td>      <td>Yes</td>    </tr>    <tr>      <td>Flammable</td>      <td>No</td>    </tr>    <tr>      <td>Catches fire from lava</td>      <td>No</td>    </tr>  </tbody></table>
+Obtaining
+Breaking
+Natural generation
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Location</th>      <th>Description</th>      <th>Image</th>    </tr>  </thead>  <tbody>    <tr>      <td>Nether Fortress</td>      <td>Nether wart can be found growing near stairwells in small soul sand gardens.</td>      <td>Nether wart growing in a Nether fortress.</td>    </tr>    <tr>      <td>Bastion Remnant</td>      <td>Nether wart can be found growing in the central courtyard of each of the sections of piglin housing unit bastions.</td>      <td>Nether wart growing in a bastion remnant.</td>    </tr>  </tbody></table>
+Chest loot
+<table border='1' class='dataframe'>  <thead>    <tr>      <th>Item</th>      <th>Structure</th>      <th>Container</th>      <th>Quantity</th>      <th>Chance</th>    </tr>    <tr>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>    </tr>  </thead>  <tbody>    <tr>      <td>Nether Wart</td>      <td>Nether fortress</td>      <td>Chest</td>      <td>3–7</td>      <td>19%</td>    </tr>    <tr>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>    </tr>    <tr>      <td>Nether Wart</td>      <td>Nether fortress</td>      <td>Chest</td>      <td>3–7</td>      <td>19%</td>    </tr>  </tbody></table>
+Usage
+Brewing ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Brewing recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Awkward Potion</td>      <td>Nether Wart +Water Bottle</td>      <td>-</td>    </tr>  </tbody></table>
+Crafting ingredient
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Nether Wart Block</td>      <td>Nether Wart</td>      <td>-</td>    </tr>    <tr>      <td>Red Nether Bricks</td>      <td>Nether Wart +Nether Brick</td>      <td>-</td>    </tr>  </tbody></table>
+Trading
+Farming
+Composting

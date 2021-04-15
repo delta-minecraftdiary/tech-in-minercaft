@@ -1,0 +1,12 @@
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>    <tr>      <td>Tool</td>      <td>Any tool</td>    </tr>    <tr>      <td>Blast resistance</td>      <td>0.5</td>    </tr>    <tr>      <td>Hardness</td>      <td>0.5</td>    </tr>    <tr>      <td>Luminant</td>      <td>No</td>    </tr>    <tr>      <td>Transparent</td>      <td>Yes</td>    </tr>    <tr>      <td>Flammable</td>      <td>No</td>    </tr>    <tr>      <td>Catches fire from lava</td>      <td>No</td>    </tr>  </tbody></table>
+Occurrence
+Natural generation
+Obtaining
+Breaking
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Block</th>      <th>Lever</th>      <th>Unnamed: 2</th>    </tr>  </thead>  <tbody>    <tr>      <td>Hardness</td>      <td>0.5</td>      <td>-</td>    </tr>    <tr>      <td>Breaking time</td>      <td>Breaking time</td>      <td>Breaking time</td>    </tr>    <tr>      <td>Default</td>      <td>0.75</td>      <td>-</td>    </tr>  </tbody></table>
+Crafting
+<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Stick +Cobblestone</td>      <td>-</td>    </tr>  </tbody></table>
+Usage
+Placement
+Activation
+Behavior
