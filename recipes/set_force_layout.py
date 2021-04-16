@@ -14,8 +14,11 @@ def get_image(item):
 
 def change_list(text):
     soup = bf(text, "html.parser")
-    table = soup.find('table')
-    rows = table.find_all('tr')
+    table = soup.find('table', 'dataframe')
+    try:
+        rows = table.find_all('tr')
+    except AttributeError:
+        return []
     head = [v.text for v in rows[0].find_all('th')]
     list = [head]
     for row in rows:
@@ -27,11 +30,11 @@ def change_list(text):
 
 
 ver = "1.0"
-with open("recipes/force layout.json", mode="r+", encoding="UTF-8") as fw:
-    force_json = json.load(fw)
+with open("recipes/force layout.json", mode="w", encoding="UTF-8") as fw:
     with open("images/items/items.json", mode="r", encoding="UTF-8") as fr:
         item_json = json.load(fr)
 
+    layout = {"nodes":[],"links":[]}
     for key in item_json[ver]:
         print(key)
         item = key
@@ -40,6 +43,8 @@ with open("recipes/force layout.json", mode="r+", encoding="UTF-8") as fw:
         ingredients = []
         flag = False
 
+        if item == "Clay(block)" or item == "Clay(item)" or item == "Leaves(unclassified-1)" or item == "Leaves(unclassified-2)" or item == "Leaves(unclassified-3)" or item == "Melon(block)" or item == "Melon(item)" or item == "Mushroom(unclassified-1)" or item == "Mushroom(unclassified-2)" or item == "Music Disc(unclassified-1)" or item == "Music Disc(unclassified-2)" or item == "Music Disc(unclassified-3)" or item == "Music Disc(unclassified-4)" or item == "Music Disc(unclassified-5)" or item == "Music Disc(unclassified-6)" or item == "Music Disc(unclassified-7)" or item == "Music Disc(unclassified-8)" or item == "Music Disc(unclassified-9)" or item == "Music Disc(unclassified-10)" or item == "Music Disc(unclassified-11)" or item == "Pressure Plate(unclassified-1)" or item == "Pressure Plate(unclassified-2)" or item == "Sapling(unclassified-1)" or item == "Sapling(unclassified-2)" or item == "Sapling(unclassified-3)" or item == "Stone Bricks(unclassified-1)" or item == "Stone Bricks(unclassified-2)" or item == "Stone Bricks(unclassified-3)" or item == "Wood(unclassified-1)" or item == "Wood(unclassified-2)" or item == "Wood(unclassified-3)" or item == "Seeds":
+            continue
         with open("recipes/data/{}.txt".format(item), mode="r", encoding="UTF-8") as gr:
             elements = gr.readlines()
 
@@ -78,3 +83,5 @@ with open("recipes/force layout.json", mode="r+", encoding="UTF-8") as fw:
             "usage":usage,
             "crafting":crafting_ingredients
         }
+        layout["nodes"].append(item_dict)
+    fw.write(str(layout))

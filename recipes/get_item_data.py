@@ -14,14 +14,14 @@ with open("images/items/items.json", mode="r", encoding="UTF-8") as f:
 for key in item_json[ver]:
     print(key)
     item = key
-    time.sleep(2)
+    time.sleep(1)
     try:
         html = urlopen(url + item.replace(" ", "_")).read()
     except HTTPError:
         continue
 
     soup = bf(html, "html.parser")
-    time.sleep(2)
+    time.sleep(1)
     try:
         dfs = pd.read_html(url + item.replace(" ", "_"))
     except ValueError:
@@ -38,6 +38,6 @@ for key in item_json[ver]:
                 text = i.text.replace("[edit]", "").replace("\n", "")
                 if text == "Contents":
                     continue
-                if text == "Sounds":
+                if text == "Sounds" or text == "Data values":
                     break
                 g.write(text + "\n")

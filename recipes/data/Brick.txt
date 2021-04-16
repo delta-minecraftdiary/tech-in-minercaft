@@ -6,30 +6,3 @@ Trading
 Usage
 Crafting ingredient
 <table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Bricks</td>      <td>Brick</td>      <td>-</td>    </tr>    <tr>      <td>Flower Pot</td>      <td>Brick</td>      <td>-</td>    </tr>  </tbody></table>
-Data values
-ID
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Form</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Brick</td>      <td>brick</td>      <td>Item</td>      <td>item.minecraft.brick</td>    </tr>  </tbody></table>
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Numeric ID</th>      <th>Form</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Brick</td>      <td>brick</td>      <td>336</td>      <td>Item</td>      <td>item.brick.name</td>    </tr>  </tbody></table>
-History
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Java Edition Alpha</th>      <th>Java Edition Alpha.1</th>      <th>Java Edition Alpha.2</th>      <th>Java Edition Alpha.3</th>      <th>Java Edition Alpha.4</th>      <th>Java Edition Alpha.5</th>    </tr>  </thead>  <tbody>    <tr>      <td>v1.0.11</td>      <td>v1.0.11</td>      <td>v1.0.11</td>      <td>v1.0.11</td>      <td>v1.0.11</td>      <td>Added bricks as an item.</td>    </tr>    <tr>      <td>Java Edition</td>      <td>Java Edition</td>      <td>Java Edition</td>      <td>Java Edition</td>      <td>Java Edition</td>      <td>Java Edition</td>    </tr>    <tr>      <td>1.4.2</td>      <td>1.4.2</td>      <td>12w34a</td>      <td>12w34a</td>      <td>12w34a</td>      <td>Bricks are now used for flower pots.</td>    </tr>    <tr>      <td>1.13</td>      <td>1.13</td>      <td>17w47a</td>      <td>17w47a</td>      <td>17w47a</td>      <td>Prior to The Flattening, this item's numeral ID was 336.</td>    </tr>    <tr>      <td>1.14</td>      <td>1.14</td>      <td>18w43a</td>      <td>18w43a</td>      <td>18w43a</td>      <td>The texture of bricks has now been changed.</td>    </tr>    <tr>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>    </tr>    <tr>      <td>v0.2.0</td>      <td>v0.2.0</td>      <td>v0.2.0</td>      <td>v0.2.0</td>      <td>v0.2.0</td>      <td>Added bricks. They are currently unobtainable and serve no purpose.</td>    </tr>    <tr>      <td>v0.3.2</td>      <td>v0.3.2</td>      <td>v0.3.2</td>      <td>v0.3.2</td>      <td>v0.3.2</td>      <td>Bricks can now be obtained by smelting clay balls.</td>    </tr>    <tr>      <td>v0.3.2</td>      <td>v0.3.2</td>      <td>v0.3.2</td>      <td>v0.3.2</td>      <td>v0.3.2</td>      <td>Bricks are now used to craft brick blocks.</td>    </tr>    <tr>      <td>v0.12.1</td>      <td>v0.12.1</td>      <td>build 1</td>      <td>build 1</td>      <td>build 1</td>      <td>Bricks are now used to craft flower pots.</td>    </tr>    <tr>      <td>v0.16.0</td>      <td>v0.16.0</td>      <td>build 5</td>      <td>build 5</td>      <td>build 5</td>      <td>Added bricks to the creative inventory.</td>    </tr>    <tr>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>    </tr>    <tr>      <td>1.10.0</td>      <td>1.10.0</td>      <td>beta 1.10.0.3</td>      <td>beta 1.10.0.3</td>      <td>beta 1.10.0.3</td>      <td>16 bricks can now be obtained via trading with stone mason villagers for 1-2 emeralds.</td>    </tr>    <tr>      <td>1.10.0</td>      <td>1.10.0</td>      <td>beta 1.10.0.3</td>      <td>beta 1.10.0.3</td>      <td>beta 1.10.0.3</td>      <td>The texture of bricks has now been changed.</td>    </tr>    <tr>      <td>1.11.0</td>      <td>1.11.0</td>      <td>beta 1.11.0.4</td>      <td>beta 1.11.0.4</td>      <td>beta 1.11.0.4</td>      <td>Trading has been changed, bricks sold by stone mason villagers now cost only one emerald.</td>    </tr>    <tr>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>    </tr>    <tr>      <td>TU1</td>      <td>CU1</td>      <td>1.0</td>      <td>Patch 1</td>      <td>-</td>      <td>Added bricks.</td>    </tr>    <tr>      <td>-</td>      <td>-</td>      <td>1.90</td>      <td>-</td>      <td>-</td>      <td>The texture of bricks has now been changed.</td>    </tr>    <tr>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>    </tr>    <tr>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>Added bricks.</td>    </tr>  </tbody></table>
-Issues
-Navigation menu
-Namespaces
-Variants
-Share
-Views
-More
-Search
-Minecraft Wiki
-Games
-Useful pages
-Minecraft links
-Gamepedia
-Tools
-In other languages
-
-Explore Properties
-Follow Us
-Overview
-Community
-Advertise

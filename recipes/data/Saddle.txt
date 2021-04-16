@@ -6,11 +6,3 @@ Fishing
 Trading
 Drops
 Usage
-Data values
-ID
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Form</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Saddle</td>      <td>saddle</td>      <td>Item</td>      <td>item.minecraft.saddle</td>    </tr>  </tbody></table>
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Numeric ID</th>      <th>Form</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Saddle</td>      <td>saddle</td>      <td>329</td>      <td>Item</td>      <td>item.saddle.name</td>    </tr>  </tbody></table>
-Achievements
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Icon</th>      <th>Icon.1</th>      <th>Achievement</th>      <th>In-game description</th>      <th>Actual requirements (if different)</th>      <th>Gamerscore earned</th>      <th>Trophy type (PS)</th>    </tr>  </thead>  <tbody>    <tr>      <td>-</td>      <td>-</td>      <td>When Pigs Fly</td>      <td>Use a saddle to ride a pig, and then have the pig get hurt from fall damage while riding it.</td>      <td>Be riding a pig (e.g. using a saddle) when it hits the ground with a fall distance greater than 5.</td>      <td>40G</td>      <td>Silver</td>    </tr>  </tbody></table>
-Advancements
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Icon</th>      <th>Advancement</th>      <th>In-game description</th>      <th>Parent</th>      <th>Actual requirements (if different)</th>      <th>Namespaced ID</th>    </tr>  </thead>  <tbody>    <tr>      <td>-</td>      <td>This Boat Has Legs</td>      <td>Ride a Strider with a Warped Fungus on a Stick</td>      <td>Nether</td>      <td>Boost[1] a strider with a warped fungus on a stick.</td>      <td>nether/ride_strider</td>    </tr>  </tbody></table>

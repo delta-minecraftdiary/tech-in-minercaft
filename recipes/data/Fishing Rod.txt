@@ -19,8 +19,3 @@ Enchantments
 <table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Max Level</th>      <th>Method</th>    </tr>  </thead>  <tbody>    <tr>      <td>Lure[note 1]</td>      <td>III</td>      <td>-</td>    </tr>    <tr>      <td>Luck of the Sea</td>      <td>III</td>      <td>-</td>    </tr>    <tr>      <td>Unbreaking</td>      <td>III</td>      <td>-</td>    </tr>    <tr>      <td>Mending</td>      <td>I</td>      <td>-</td>    </tr>    <tr>      <td>Curse of Vanishing</td>      <td>I</td>      <td>-</td>    </tr>  </tbody></table>
 Fishing Bobber
 <table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Network ID</td>      <td>JE: 90</td>    </tr>  </tbody></table>
-Data values
-ID
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Fishing Bobber</td>      <td>fishing_bobber</td>      <td>entity.minecraft.fishing_bobber</td>    </tr>  </tbody></table>
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Numeric ID</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Fishing Bobber</td>      <td>fishing_hook</td>      <td>77</td>      <td>entity.fishing_hook.name</td>    </tr>  </tbody></table>
-Entity data

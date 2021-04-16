@@ -6,31 +6,3 @@ Brewing ingredient
 <table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Brewing recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Mundane Potion</td>      <td>Ghast Tear +Water Bottle</td>      <td>-</td>    </tr>    <tr>      <td>Potion of Regeneration</td>      <td>Ghast Tear +Awkward Potion</td>      <td>-</td>    </tr>  </tbody></table>
 Crafting ingredient
 <table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>End Crystal</td>      <td>Glass +Eye of Ender +Ghast Tear</td>      <td>-</td>    </tr>  </tbody></table>
-Data values
-ID
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Form</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Ghast Tear</td>      <td>ghast_tear</td>      <td>Item</td>      <td>item.minecraft.ghast_tear</td>    </tr>  </tbody></table>
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Namespaced ID</th>      <th>Numeric ID</th>      <th>Form</th>      <th>Translation key</th>    </tr>  </thead>  <tbody>    <tr>      <td>Ghast Tear</td>      <td>ghast_tear</td>      <td>370</td>      <td>Item</td>      <td>item.ghast_tear.name</td>    </tr>  </tbody></table>
-History
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Java Edition</th>      <th>Java Edition.1</th>      <th>Java Edition.2</th>      <th>Java Edition.3</th>      <th>Java Edition.4</th>      <th>Java Edition.5</th>    </tr>  </thead>  <tbody>    <tr>      <td>1.0.0</td>      <td>1.0.0</td>      <td>Beta 1.9 Prerelease</td>      <td>Beta 1.9 Prerelease</td>      <td>Beta 1.9 Prerelease</td>      <td>Added ghast tears.</td>    </tr>    <tr>      <td>1.0.0</td>      <td>1.0.0</td>      <td>Beta 1.9 Prerelease 3</td>      <td>Beta 1.9 Prerelease 3</td>      <td>Beta 1.9 Prerelease 3</td>      <td>Ghast tears can now be brewed in a water bottle to create a Mundane Potion, or in an Awkward Potion to create a potion of Healing.</td>    </tr>    <tr>      <td>1.0.0</td>      <td>1.0.0</td>      <td>Beta 1.9 Prerelease 4</td>      <td>Beta 1.9 Prerelease 4</td>      <td>Beta 1.9 Prerelease 4</td>      <td>Ghast tears now create potions of Regeneration. This was due to the sheer difficulty in obtaining them.[1] Glistering melons have been added to create potions of Healing, instead.</td>    </tr>    <tr>      <td>1.9</td>      <td>1.9</td>      <td>15w44b</td>      <td>15w44b</td>      <td>15w44b</td>      <td>A ghast tear is now used to craft an end crystal.</td>    </tr>    <tr>      <td>1.13</td>      <td>1.13</td>      <td>17w47a</td>      <td>17w47a</td>      <td>17w47a</td>      <td>Prior to The Flattening, this item's numeral ID was 370.</td>    </tr>    <tr>      <td>1.14</td>      <td>1.14</td>      <td>18w43a</td>      <td>18w43a</td>      <td>18w43a</td>      <td>The texture of ghast tears has now been changed.</td>    </tr>    <tr>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>      <td>Pocket Edition Alpha</td>    </tr>    <tr>      <td>v0.12.1</td>      <td>v0.12.1</td>      <td>build 1</td>      <td>build 1</td>      <td>build 1</td>      <td>Added ghast tears.</td>    </tr>    <tr>      <td>v0.12.1</td>      <td>v0.12.1</td>      <td>build 1</td>      <td>build 1</td>      <td>build 1</td>      <td>Ghast tears are currently unobtainable as ghasts don’t drop them.</td>    </tr>    <tr>      <td>v0.12.1</td>      <td>v0.12.1</td>      <td>build 7</td>      <td>build 7</td>      <td>build 7</td>      <td>Ghasts now drop ghast tears.</td>    </tr>    <tr>      <td>Pocket Edition</td>      <td>Pocket Edition</td>      <td>Pocket Edition</td>      <td>Pocket Edition</td>      <td>Pocket Edition</td>      <td>Pocket Edition</td>    </tr>    <tr>      <td>1.0.0</td>      <td>1.0.0</td>      <td>alpha 0.17.0.1</td>      <td>alpha 0.17.0.1</td>      <td>alpha 0.17.0.1</td>      <td>A ghast tear is now used to craft an end crystal.</td>    </tr>    <tr>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>    </tr>    <tr>      <td>1.10.0</td>      <td>1.10.0</td>      <td>beta 1.10.0.3</td>      <td>beta 1.10.0.3</td>      <td>beta 1.10.0.3</td>      <td>The texture of ghast tears has now been changed.</td>    </tr>    <tr>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>      <td>Legacy Console Edition</td>    </tr>    <tr>      <td>TU7</td>      <td>CU1</td>      <td>1.0</td>      <td>Patch 1</td>      <td>-</td>      <td>Added ghast tears.</td>    </tr>    <tr>      <td>-</td>      <td>-</td>      <td>1.90</td>      <td>-</td>      <td>-</td>      <td>The texture of ghast tears has now been changed.</td>    </tr>    <tr>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>      <td>New Nintendo 3DS Edition</td>    </tr>    <tr>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>0.1.0</td>      <td>Added ghast tears.</td>    </tr>  </tbody></table>
-Issues
-References
-Navigation menu
-Namespaces
-Variants
-Share
-Views
-More
-Search
-Minecraft Wiki
-Games
-Useful pages
-Minecraft links
-Gamepedia
-Tools
-In other languages
-
-Explore Properties
-Follow Us
-Overview
-Community
-Advertise
