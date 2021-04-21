@@ -1,7 +1,0 @@
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Rarity color</td>      <td>Common</td>    </tr>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>  </tbody></table>
-Obtaining
-Crafting
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Brown Mushroom +Sugar +Spider Eye</td>      <td>-</td>    </tr>  </tbody></table>
-Usage
-Brewing ingredient
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Brewing recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Potion of Weakness</td>      <td>Fermented Spider Eye +Water Bottle</td>      <td>-</td>    </tr>    <tr>      <td>Potion of Harming</td>      <td>Fermented Spider Eye +Potion of Poison orPotion of Healing</td>      <td>-</td>    </tr>    <tr>      <td>Potion of Slowness</td>      <td>Fermented Spider Eye +Potion of Swiftness orPotion of Leaping</td>      <td>-</td>    </tr>    <tr>      <td>Potion of Invisibility</td>      <td>Fermented Spider Eye +Potion of Night Vision</td>      <td>-</td>    </tr>  </tbody></table>

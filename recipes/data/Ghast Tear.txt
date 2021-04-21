@@ -1,8 +1,0 @@
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Rarity color</td>      <td>Common</td>    </tr>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>  </tbody></table>
-Obtaining
-Mob loot
-Usage
-Brewing ingredient
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Brewing recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>Mundane Potion</td>      <td>Ghast Tear +Water Bottle</td>      <td>-</td>    </tr>    <tr>      <td>Potion of Regeneration</td>      <td>Ghast Tear +Awkward Potion</td>      <td>-</td>    </tr>  </tbody></table>
-Crafting ingredient
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>    </tr>  </thead>  <tbody>    <tr>      <td>End Crystal</td>      <td>Glass +Eye of Ender +Ghast Tear</td>      <td>-</td>    </tr>  </tbody></table>

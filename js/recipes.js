@@ -4,7 +4,7 @@ window.addEventListener('load', function(){
 
 function getJson(version) {
     let map = new Object();
-    $.getJSON("../images/items/items.json", function(data) {
+    $.getJSON(`../sources/inventory/${version}/recipes/items.json`, function(data) {
         map = data[version];
     });
     return map
@@ -21,10 +21,10 @@ function addImgTag() {
     const itemMap = getJson(version);
     $.ajaxSetup({ async: true });
 
-    for (let key in itemMap) {
+    for (let item in itemMap) {
         let extension = "png";
-        if (key == "Golden Apple") extension = "gif";
-        $("#inventory-items").append(`<img class="drag-image" src="../images/items/${version}/${key}.${extension}">`);
+        if (itemMap[item]["id"] == "Golden Apple") extension = "gif";
+        $("#inventory-items").append(`<img class="drag-image" id="${itemMap[item]["id"]}" src="../images/items/${version}/${itemMap[item]["id"]}.${extension} alt="item image of ${itemMap[item]["id"]}">`);
     }
 }
 

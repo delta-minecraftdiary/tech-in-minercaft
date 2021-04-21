@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup as bf
 ver = "1.16.5"
 
 def get_items(recipe):
-    with open("recipes/json/{0}/{1}.json".format(ver, recipe), mode="r", encoding="UTF-8") as f:
+    with open("../sources/inventory/{0}/recipes/{1}.json".format(ver, recipe), mode="r", encoding="UTF-8") as f:
         recipe_json = json.load(f)
         item_list = []
         if recipe_json["type"] == "minecraft:crafting_shaped":
@@ -63,7 +63,7 @@ def get_items(recipe):
     return item_list
 
 
-with open("images/items/{}.json".format(ver), mode="r", encoding="UTF-8") as item_file:
+with open("../sources/inventory/{}/items.json".format(ver), mode="r", encoding="UTF-8") as item_file:
     items_json = json.load(item_file)
 
 url = "https://minecraft.fandom.com/wiki/"
@@ -125,10 +125,11 @@ for key in items_json[ver]:
     for recipe in items_json[ver][j]["recipes"]:
         items = get_items(recipe)
         items_json[ver][j]["crafting"].extend(items)
+    items_json[ver][j]["crafting"] = set(items_json[ver][j]["crafting"])
     items_json[ver][j]["url"] = requests.get(url + item).url
     j += 1
 
-with open("images/items/1.16.5.json", mode="w", encoding="UTF-8") as json_file:
+with open("../sources/inventory/{}/items.json".format(ver), mode="w", encoding="UTF-8") as json_file:
     json.dump(items_json, json_file)
 
 with open("recipes/error_log.txt", mode="w", encoding="UTF-8") as log:

@@ -1,7 +1,0 @@
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Rarity color</td>      <td>Common</td>    </tr>    <tr>      <td>Renewable</td>      <td>Yes</td>    </tr>    <tr>      <td>Stackable</td>      <td>No</td>    </tr>    <tr>      <td>Status effects</td>      <td>Clears all</td>    </tr>  </tbody></table>
-Obtaining
-Harvesting
-Mob loot
-Usage
-Crafting ingredient
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>Name</th>      <th>Ingredients</th>      <th>Crafting recipe</th>      <th>Description</th>    </tr>  </thead>  <tbody>    <tr>      <td>Cake</td>      <td>Milk Bucket +Sugar +Egg +Wheat</td>      <td>-</td>      <td>Empty buckets remain in the crafting grid after crafting the cake.</td>    </tr>  </tbody></table>

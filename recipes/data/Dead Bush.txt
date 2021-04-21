@@ -1,8 +1,0 @@
-<table border='1' class='dataframe'>  <thead>    <tr style='text-align: right;'>      <th>0</th>      <th>1</th>    </tr>  </thead>  <tbody>    <tr>      <td>Renewable</td>      <td>No</td>    </tr>    <tr>      <td>Stackable</td>      <td>Yes (64)</td>    </tr>    <tr>      <td>Tool</td>      <td>-</td>    </tr>    <tr>      <td>Blast resistance</td>      <td>0</td>    </tr>    <tr>      <td>Hardness</td>      <td>0</td>    </tr>    <tr>      <td>Luminant</td>      <td>No</td>    </tr>    <tr>      <td>Transparent</td>      <td>Yes</td>    </tr>    <tr>      <td>Flammable</td>      <td>JE: Yes (60) BE: No</td>    </tr>    <tr>      <td>Catches fire from lava</td>      <td>Yes</td>    </tr>  </tbody></table>
-Obtaining
-Breaking
-Natural generation
-Chest loot
-<table border='1' class='dataframe'>  <thead>    <tr>      <th>Item</th>      <th>Structure</th>      <th>Container</th>      <th>Quantity</th>      <th>Chance</th>    </tr>    <tr>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>      <th>Java Edition</th>    </tr>  </thead>  <tbody>    <tr>      <td>Dead Bush</td>      <td>Village</td>      <td>Desert house chest</td>      <td>1–3</td>      <td>26.6%</td>    </tr>    <tr>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>      <td>Bedrock Edition</td>    </tr>    <tr>      <td>Dead Bush</td>      <td>Village</td>      <td>Desert house chest</td>      <td>1–3</td>      <td>26.6%</td>    </tr>  </tbody></table>
-Usage
-Smelting
