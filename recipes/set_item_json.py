@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup as bf
 ver = "1.16.5"
 
 def get_items(recipe):
-    with open("../sources/inventory/{0}/recipes/{1}.json".format(ver, recipe), mode="r", encoding="UTF-8") as f:
+    with open("sources/inventory/{0}/recipes/{1}.json".format(ver, recipe), mode="r", encoding="UTF-8") as f:
         recipe_json = json.load(f)
         item_list = []
         if recipe_json["type"] == "minecraft:crafting_shaped":
@@ -59,11 +59,11 @@ def get_items(recipe):
                             item_list.append(in_item["tag"].replace("minecraft:", ""))
                     else:
                         item_list.append(item["tag"].replace("minecraft:", ""))
-    item_list = set(item_list)
+    item_list = list(set(item_list))
     return item_list
 
 
-with open("../sources/inventory/{}/items.json".format(ver), mode="r", encoding="UTF-8") as item_file:
+with open("sources/inventory/{}/items.json".format(ver), mode="r", encoding="UTF-8") as item_file:
     items_json = json.load(item_file)
 
 url = "https://minecraft.fandom.com/wiki/"
@@ -97,6 +97,7 @@ for key in items_json[ver]:
     elif "furnace_minecart" in item: item = "minecart_with_furnace"
     elif "jack_o_lantern" in item: item = "jack_o'lantern"
     elif "stripped" in item: item = "Wood"
+    elif "tnt_minecart" in item: item = "minecart_with_TNT"
     try:
         html = urlopen(url + item).read()
     except HTTPError:
@@ -125,11 +126,11 @@ for key in items_json[ver]:
     for recipe in items_json[ver][j]["recipes"]:
         items = get_items(recipe)
         items_json[ver][j]["crafting"].extend(items)
-    items_json[ver][j]["crafting"] = set(items_json[ver][j]["crafting"])
+    items_json[ver][j]["crafting"] = list(set(items_json[ver][j]["crafting"]))
     items_json[ver][j]["url"] = requests.get(url + item).url
     j += 1
 
-with open("../sources/inventory/{}/items.json".format(ver), mode="w", encoding="UTF-8") as json_file:
+with open("sources/inventory/{}/items.json".format(ver), mode="w", encoding="UTF-8") as json_file:
     json.dump(items_json, json_file)
 
 with open("recipes/error_log.txt", mode="w", encoding="UTF-8") as log:

@@ -312,8 +312,8 @@
             ],
             "crafting": [
                 "redstone_torch",
-                "iron_ingot",
-                "stick"
+                "stick",
+                "iron_ingot"
             ]
         },
         {
@@ -337,7 +337,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "andesite",
                 "andesite"
             ]
         },
@@ -362,7 +361,6 @@
                 "Walking"
             ],
             "crafting": [
-                "andesite",
                 "andesite"
             ]
         },
@@ -386,7 +384,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "andesite",
                 "andesite"
             ]
         },
@@ -413,8 +410,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "cobblestone",
-                "diorite"
+                "diorite",
+                "cobblestone"
             ]
         },
         {
@@ -460,8 +457,8 @@
             ],
             "usage": [],
             "crafting": [
-                "smooth_stone_slab",
-                "stick"
+                "stick",
+                "smooth_stone_slab"
             ]
         },
         {
@@ -493,9 +490,9 @@
                 "Spectral arrows"
             ],
             "crafting": [
-                "flint",
                 "stick",
-                "feather"
+                "feather",
+                "flint"
             ]
         },
         {
@@ -515,8 +512,6 @@
                 "Composting"
             ],
             "crafting": [
-                "potato",
-                "potato",
                 "potato"
             ]
         },
@@ -570,8 +565,8 @@
             ],
             "crafting": [
                 "glass",
-                "nether_star",
-                "obsidian"
+                "obsidian",
+                "nether_star"
             ]
         },
         {
@@ -710,8 +705,8 @@
                 "Helmet"
             ],
             "crafting": [
-                "stick",
-                "birch_planks"
+                "birch_planks",
+                "stick"
             ]
         },
         {
@@ -735,8 +730,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "stick",
-                "birch_planks"
+                "birch_planks",
+                "stick"
             ]
         },
         {
@@ -811,8 +806,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "stick",
-                "birch_planks"
+                "birch_planks",
+                "stick"
             ]
         },
         {
@@ -941,8 +936,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "black_wool",
-                "stick"
+                "stick",
+                "black_wool"
             ]
         },
         {
@@ -971,10 +966,10 @@
                 "Placement"
             ],
             "crafting": [
-                "black_dye",
                 "white_bed",
-                "black_wool",
-                "planks"
+                "black_dye",
+                "planks",
+                "black_wool"
             ]
         },
         {
@@ -999,8 +994,8 @@
             ],
             "crafting": [
                 "black_dye",
-                "white_carpet",
-                "black_wool"
+                "black_wool",
+                "white_carpet"
             ]
         },
         {
@@ -1022,8 +1017,8 @@
             ],
             "crafting": [
                 "black_dye",
-                "sand",
-                "gravel"
+                "gravel",
+                "sand"
             ]
         },
         {
@@ -1096,8 +1091,8 @@
                 "Trading"
             ],
             "crafting": [
-                "black_dye",
                 "glass_pane",
+                "black_dye",
                 "black_stained_glass"
             ]
         },
@@ -1201,7 +1196,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "blackstone",
                 "blackstone"
             ]
         },
@@ -1226,7 +1220,6 @@
                 "Walking"
             ],
             "crafting": [
-                "blackstone",
                 "blackstone"
             ]
         },
@@ -1250,7 +1243,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "blackstone",
                 "blackstone"
             ]
         },
@@ -1390,8 +1382,8 @@
             ],
             "crafting": [
                 "blue_dye",
-                "white_carpet",
-                "blue_wool"
+                "blue_wool",
+                "white_carpet"
             ]
         },
         {
@@ -1413,8 +1405,8 @@
             ],
             "crafting": [
                 "blue_dye",
-                "sand",
-                "gravel"
+                "gravel",
+                "sand"
             ]
         },
         {
@@ -1436,8 +1428,8 @@
                 "Trading"
             ],
             "crafting": [
-                "cornflower",
-                "lapis_lazuli"
+                "lapis_lazuli",
+                "cornflower"
             ]
         },
         {
@@ -1694,8 +1686,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "book",
-                "planks"
+                "planks",
+                "book"
             ]
         },
         {
@@ -1724,8 +1716,8 @@
                 "Arrows"
             ],
             "crafting": [
-                "string",
-                "stick"
+                "stick",
+                "string"
             ]
         },
         {
@@ -1795,8 +1787,8 @@
                 "Change profession"
             ],
             "crafting": [
-                "stone_crafting_materials",
-                "blaze_rod"
+                "blaze_rod",
+                "stone_crafting_materials"
             ]
         },
         {
@@ -1820,7 +1812,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "bricks",
                 "bricks"
             ]
         },
@@ -1845,7 +1836,6 @@
                 "Walking"
             ],
             "crafting": [
-                "bricks",
                 "bricks"
             ]
         },
@@ -1869,7 +1859,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "bricks",
                 "bricks"
             ]
         },
@@ -1975,10 +1964,10 @@
                 "Placement"
             ],
             "crafting": [
-                "brown_dye",
-                "white_bed",
                 "brown_wool",
-                "planks"
+                "white_bed",
+                "planks",
+                "brown_dye"
             ]
         },
         {
@@ -2002,9 +1991,9 @@
                 "Breaking tall grass and vines"
             ],
             "crafting": [
-                "white_carpet",
+                "brown_wool",
                 "brown_dye",
-                "brown_wool"
+                "white_carpet"
             ]
         },
         {
@@ -2025,9 +2014,9 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "sand",
+                "brown_dye",
                 "gravel",
-                "brown_dye"
+                "sand"
             ]
         },
         {
@@ -2098,8 +2087,8 @@
             ],
             "crafting": [
                 "glass_pane",
-                "brown_dye",
-                "brown_stained_glass"
+                "brown_stained_glass",
+                "brown_dye"
             ]
         },
         {
@@ -2148,8 +2137,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "brown_dye",
-                "terracotta"
+                "terracotta",
+                "brown_dye"
             ]
         },
         {
@@ -2220,10 +2209,10 @@
                 "Candle cakes"
             ],
             "crafting": [
-                "egg",
-                "milk_bucket",
+                "wheat",
                 "sugar",
-                "wheat"
+                "egg",
+                "milk_bucket"
             ]
         },
         {
@@ -2253,8 +2242,8 @@
                 "Piston interactivity"
             ],
             "crafting": [
-                "coals",
                 "logs",
+                "coals",
                 "stick"
             ]
         },
@@ -2275,8 +2264,8 @@
                 "Enchantments"
             ],
             "crafting": [
-                "carrot",
-                "fishing_rod"
+                "fishing_rod",
+                "carrot"
             ]
         },
         {
@@ -2348,8 +2337,8 @@
             ],
             "usage": [],
             "crafting": [
-                "iron_nugget",
-                "iron_ingot"
+                "iron_ingot",
+                "iron_nugget"
             ]
         },
         {
@@ -2528,8 +2517,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "red_sandstone",
-                "red_sandstone_slab"
+                "red_sandstone_slab",
+                "red_sandstone"
             ]
         },
         {
@@ -2585,8 +2574,8 @@
                 "Silverfish"
             ],
             "crafting": [
-                "stone_bricks",
                 "stone",
+                "stone_bricks",
                 "stone_brick_slab"
             ]
         },
@@ -2680,9 +2669,8 @@
                 "Trading"
             ],
             "crafting": [
-                "coal_ore",
-                "coal_ore",
-                "coal_block"
+                "coal_block",
+                "coal_ore"
             ]
         },
         {
@@ -2726,7 +2714,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "cobblestone",
                 "cobblestone"
             ]
         },
@@ -2751,7 +2738,6 @@
                 "Walking"
             ],
             "crafting": [
-                "cobblestone",
                 "cobblestone"
             ]
         },
@@ -2775,7 +2761,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "cobblestone",
                 "cobblestone"
             ]
         },
@@ -2874,8 +2859,8 @@
                 "Light source"
             ],
             "crafting": [
-                "nautilus_shell",
-                "heart_of_the_sea"
+                "heart_of_the_sea",
+                "nautilus_shell"
             ]
         },
         {
@@ -2900,8 +2885,6 @@
                 "Wolves"
             ],
             "crafting": [
-                "beef",
-                "beef",
                 "beef"
             ]
         },
@@ -2926,8 +2909,6 @@
                 "Wolves"
             ],
             "crafting": [
-                "chicken",
-                "chicken",
                 "chicken"
             ]
         },
@@ -2956,8 +2937,6 @@
                 "Wolves"
             ],
             "crafting": [
-                "cod",
-                "cod",
                 "cod"
             ]
         },
@@ -2984,8 +2963,6 @@
                 "Wolves"
             ],
             "crafting": [
-                "mutton",
-                "mutton",
                 "mutton"
             ]
         },
@@ -3014,8 +2991,6 @@
                 "Piglins"
             ],
             "crafting": [
-                "porkchop",
-                "porkchop",
                 "porkchop"
             ]
         },
@@ -3041,8 +3016,6 @@
                 "Wolves"
             ],
             "crafting": [
-                "rabbit",
-                "rabbit",
                 "rabbit"
             ]
         },
@@ -3068,8 +3041,6 @@
                 "Wolves"
             ],
             "crafting": [
-                "salmon",
-                "salmon",
                 "salmon"
             ]
         },
@@ -3093,8 +3064,8 @@
                 "Composting"
             ],
             "crafting": [
-                "wheat",
-                "cocoa_beans"
+                "cocoa_beans",
+                "wheat"
             ]
         },
         {
@@ -3214,8 +3185,8 @@
                 "Loom ingredient"
             ],
             "crafting": [
-                "creeper_head",
-                "paper"
+                "paper",
+                "creeper_head"
             ]
         },
         {
@@ -3284,8 +3255,8 @@
                 "Helmet"
             ],
             "crafting": [
-                "crimson_planks",
-                "stick"
+                "stick",
+                "crimson_planks"
             ]
         },
         {
@@ -3309,8 +3280,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "crimson_planks",
-                "stick"
+                "stick",
+                "crimson_planks"
             ]
         },
         {
@@ -3411,8 +3382,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "crimson_planks",
-                "stick"
+                "stick",
+                "crimson_planks"
             ]
         },
         {
@@ -3513,9 +3484,9 @@
             ],
             "crafting": [
                 "tripwire_hook",
-                "string",
                 "iron_ingot",
-                "stick"
+                "stick",
+                "string"
             ]
         },
         {
@@ -3541,7 +3512,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "red_sandstone",
                 "red_sandstone"
             ]
         },
@@ -3567,7 +3537,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "cut_red_sandstone",
                 "red_sandstone",
                 "cut_red_sandstone"
             ]
@@ -3595,7 +3564,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "sandstone",
                 "sandstone"
             ]
         },
@@ -3621,7 +3589,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "cut_sandstone",
                 "sandstone",
                 "cut_sandstone"
             ]
@@ -3655,8 +3622,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "cyan_wool",
-                "stick"
+                "stick",
+                "cyan_wool"
             ]
         },
         {
@@ -3685,10 +3652,10 @@
                 "Placement"
             ],
             "crafting": [
-                "cyan_dye",
                 "white_bed",
                 "cyan_wool",
-                "planks"
+                "planks",
+                "cyan_dye"
             ]
         },
         {
@@ -3712,9 +3679,9 @@
                 "Breaking tall grass and vines"
             ],
             "crafting": [
+                "cyan_wool",
                 "cyan_dye",
-                "white_carpet",
-                "cyan_wool"
+                "white_carpet"
             ]
         },
         {
@@ -3735,9 +3702,9 @@
                 "Note Blocks"
             ],
             "crafting": [
+                "gravel",
                 "cyan_dye",
-                "sand",
-                "gravel"
+                "sand"
             ]
         },
         {
@@ -3759,8 +3726,8 @@
                 "Trading"
             ],
             "crafting": [
-                "green_dye",
-                "blue_dye"
+                "blue_dye",
+                "green_dye"
             ]
         },
         {
@@ -3809,9 +3776,9 @@
                 "Trading"
             ],
             "crafting": [
-                "cyan_dye",
                 "glass_pane",
-                "cyan_stained_glass"
+                "cyan_stained_glass",
+                "cyan_dye"
             ]
         },
         {
@@ -3860,8 +3827,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "cyan_dye",
-                "terracotta"
+                "terracotta",
+                "cyan_dye"
             ]
         },
         {
@@ -3889,8 +3856,8 @@
                 "Fuel"
             ],
             "crafting": [
-                "cyan_dye",
-                "white_wool"
+                "white_wool",
+                "cyan_dye"
             ]
         },
         {
@@ -4206,7 +4173,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "dark_prismarine",
                 "dark_prismarine"
             ]
         },
@@ -4231,7 +4197,6 @@
                 "Walking"
             ],
             "crafting": [
-                "dark_prismarine",
                 "dark_prismarine"
             ]
         },
@@ -4282,8 +4247,8 @@
             ],
             "crafting": [
                 "glass",
-                "wooden_slabs",
-                "quartz"
+                "quartz",
+                "wooden_slabs"
             ]
         },
         {
@@ -4345,8 +4310,8 @@
                 "Smelting ingredient"
             ],
             "crafting": [
-                "diamond",
-                "stick"
+                "stick",
+                "diamond"
             ]
         },
         {
@@ -4465,7 +4430,6 @@
             ],
             "crafting": [
                 "diamond_ore",
-                "diamond_ore",
                 "diamond_block"
             ]
         },
@@ -4532,8 +4496,8 @@
                 "Piglins"
             ],
             "crafting": [
-                "diamond",
-                "stick"
+                "stick",
+                "diamond"
             ]
         },
         {
@@ -4599,8 +4563,8 @@
                 "Advancements"
             ],
             "crafting": [
-                "diamond",
-                "stick"
+                "stick",
+                "diamond"
             ]
         },
         {
@@ -4640,8 +4604,8 @@
                 "Piglins"
             ],
             "crafting": [
-                "diamond",
-                "stick"
+                "stick",
+                "diamond"
             ]
         },
         {
@@ -4676,8 +4640,8 @@
                 "Smelting ingredient"
             ],
             "crafting": [
-                "diamond",
-                "stick"
+                "stick",
+                "diamond"
             ]
         },
         {
@@ -4701,7 +4665,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "diorite",
                 "diorite"
             ]
         },
@@ -4726,7 +4689,6 @@
                 "Walking"
             ],
             "crafting": [
-                "diorite",
                 "diorite"
             ]
         },
@@ -4750,7 +4712,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "diorite",
                 "diorite"
             ]
         },
@@ -4849,10 +4810,8 @@
                 "Composting"
             ],
             "crafting": [
-                "kelp",
-                "kelp",
-                "kelp",
-                "dried_kelp_block"
+                "dried_kelp_block",
+                "kelp"
             ]
         },
         {
@@ -4926,9 +4885,8 @@
                 "Advancements"
             ],
             "crafting": [
-                "emerald_ore",
-                "emerald_ore",
-                "emerald_block"
+                "emerald_block",
+                "emerald_ore"
             ]
         },
         {
@@ -4953,9 +4911,9 @@
                 "Piston interactivity"
             ],
             "crafting": [
+                "obsidian",
                 "diamond",
-                "book",
-                "obsidian"
+                "book"
             ]
         },
         {
@@ -4981,8 +4939,8 @@
             ],
             "crafting": [
                 "glass",
-                "ghast_tear",
-                "ender_eye"
+                "ender_eye",
+                "ghast_tear"
             ]
         },
         {
@@ -5004,8 +4962,8 @@
                 "Light"
             ],
             "crafting": [
-                "blaze_rod",
-                "popped_chorus_fruit"
+                "popped_chorus_fruit",
+                "blaze_rod"
             ]
         },
         {
@@ -5031,8 +4989,7 @@
             ],
             "crafting": [
                 "end_stone_bricks",
-                "end_stone",
-                "end_stone_bricks"
+                "end_stone"
             ]
         },
         {
@@ -5058,8 +5015,7 @@
             ],
             "crafting": [
                 "end_stone_bricks",
-                "end_stone",
-                "end_stone_bricks"
+                "end_stone"
             ]
         },
         {
@@ -5084,8 +5040,7 @@
             ],
             "crafting": [
                 "end_stone_bricks",
-                "end_stone",
-                "end_stone_bricks"
+                "end_stone"
             ]
         },
         {
@@ -5110,7 +5065,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "end_stone",
                 "end_stone"
             ]
         },
@@ -5135,8 +5089,8 @@
                 "Piston interactivity"
             ],
             "crafting": [
-                "ender_eye",
-                "obsidian"
+                "obsidian",
+                "ender_eye"
             ]
         },
         {
@@ -5200,10 +5154,10 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "blaze_powder",
                 "coal",
+                "charcoal",
                 "gunpowder",
-                "charcoal"
+                "blaze_powder"
             ]
         },
         {
@@ -5233,8 +5187,8 @@
                 "Fishing Bobber"
             ],
             "crafting": [
-                "string",
-                "stick"
+                "stick",
+                "string"
             ]
         },
         {
@@ -5301,8 +5255,8 @@
                 "Loom ingredient"
             ],
             "crafting": [
-                "oxeye_daisy",
-                "paper"
+                "paper",
+                "oxeye_daisy"
             ]
         },
         {
@@ -5470,8 +5424,8 @@
                 "Advancements"
             ],
             "crafting": [
-                "melon_slice",
-                "gold_nugget"
+                "gold_nugget",
+                "melon_slice"
             ]
         },
         {
@@ -5557,7 +5511,6 @@
                 "Advancements"
             ],
             "crafting": [
-                "gold_ores",
                 "gold_block",
                 "gold_nugget",
                 "gold_ores"
@@ -5586,27 +5539,17 @@
                 "Fuel"
             ],
             "crafting": [
-                "golden_pickaxe",
-                "golden_axe",
-                "golden_chestplate",
-                "golden_shovel",
-                "golden_sword",
-                "golden_helmet",
-                "golden_leggings",
-                "golden_horse_armor",
-                "golden_boots",
+                "gold_ingot",
                 "golden_hoe",
-                "golden_pickaxe",
-                "golden_axe",
-                "golden_chestplate",
                 "golden_shovel",
-                "golden_sword",
+                "golden_axe",
                 "golden_helmet",
-                "golden_leggings",
-                "golden_horse_armor",
                 "golden_boots",
-                "golden_hoe",
-                "gold_ingot"
+                "golden_horse_armor",
+                "golden_chestplate",
+                "golden_sword",
+                "golden_leggings",
+                "golden_pickaxe"
             ]
         },
         {
@@ -5628,8 +5571,8 @@
                 "Piglins"
             ],
             "crafting": [
-                "gold_ingot",
-                "apple"
+                "apple",
+                "gold_ingot"
             ]
         },
         {
@@ -5725,8 +5668,8 @@
                 "Brewing ingredient"
             ],
             "crafting": [
-                "carrot",
-                "gold_nugget"
+                "gold_nugget",
+                "carrot"
             ]
         },
         {
@@ -5994,7 +5937,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "granite",
                 "granite"
             ]
         },
@@ -6019,7 +5961,6 @@
                 "Walking"
             ],
             "crafting": [
-                "granite",
                 "granite"
             ]
         },
@@ -6043,7 +5984,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "granite",
                 "granite"
             ]
         },
@@ -6070,8 +6010,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "quartz",
-                "diorite"
+                "diorite",
+                "quartz"
             ]
         },
         {
@@ -6133,10 +6073,10 @@
                 "Placement"
             ],
             "crafting": [
-                "gray_dye",
                 "white_bed",
                 "planks",
-                "gray_wool"
+                "gray_wool",
+                "gray_dye"
             ]
         },
         {
@@ -6160,9 +6100,9 @@
                 "Breaking tall grass and vines"
             ],
             "crafting": [
-                "gray_dye",
                 "white_carpet",
-                "gray_wool"
+                "gray_wool",
+                "gray_dye"
             ]
         },
         {
@@ -6183,9 +6123,9 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "gravel",
+                "gray_dye",
                 "sand",
-                "gray_dye"
+                "gravel"
             ]
         },
         {
@@ -6258,8 +6198,8 @@
             ],
             "crafting": [
                 "glass_pane",
-                "gray_dye",
-                "gray_stained_glass"
+                "gray_stained_glass",
+                "gray_dye"
             ]
         },
         {
@@ -6308,8 +6248,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "gray_dye",
-                "terracotta"
+                "terracotta",
+                "gray_dye"
             ]
         },
         {
@@ -6337,8 +6277,8 @@
                 "Fuel"
             ],
             "crafting": [
-                "gray_dye",
-                "white_wool"
+                "white_wool",
+                "gray_dye"
             ]
         },
         {
@@ -6370,8 +6310,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "green_wool",
-                "stick"
+                "stick",
+                "green_wool"
             ]
         },
         {
@@ -6400,10 +6340,10 @@
                 "Placement"
             ],
             "crafting": [
-                "green_dye",
-                "white_bed",
                 "green_wool",
-                "planks"
+                "white_bed",
+                "planks",
+                "green_dye"
             ]
         },
         {
@@ -6427,9 +6367,9 @@
                 "Breaking tall grass and vines"
             ],
             "crafting": [
+                "green_wool",
                 "green_dye",
-                "white_carpet",
-                "green_wool"
+                "white_carpet"
             ]
         },
         {
@@ -6450,9 +6390,9 @@
                 "Note Blocks"
             ],
             "crafting": [
+                "gravel",
                 "green_dye",
-                "sand",
-                "gravel"
+                "sand"
             ]
         },
         {
@@ -6524,9 +6464,9 @@
                 "Trading"
             ],
             "crafting": [
-                "green_dye",
                 "glass_pane",
-                "green_stained_glass"
+                "green_stained_glass",
+                "green_dye"
             ]
         },
         {
@@ -6549,8 +6489,8 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "green_dye",
-                "glass"
+                "glass",
+                "green_dye"
             ]
         },
         {
@@ -6575,8 +6515,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "green_dye",
-                "terracotta"
+                "terracotta",
+                "green_dye"
             ]
         },
         {
@@ -6604,8 +6544,8 @@
                 "Fuel"
             ],
             "crafting": [
-                "green_dye",
-                "white_wool"
+                "white_wool",
+                "green_dye"
             ]
         },
         {
@@ -6628,9 +6568,9 @@
                 "Changing profession"
             ],
             "crafting": [
-                "stone_slab",
                 "stick",
-                "planks"
+                "planks",
+                "stone_slab"
             ]
         },
         {
@@ -7065,7 +7005,6 @@
                 "Advancements"
             ],
             "crafting": [
-                "iron_ore",
                 "iron_block",
                 "iron_nugget",
                 "iron_ore"
@@ -7093,35 +7032,21 @@
                 "Fuel"
             ],
             "crafting": [
-                "iron_boots",
-                "iron_chestplate",
-                "chainmail_helmet",
-                "chainmail_chestplate",
-                "iron_horse_armor",
-                "iron_leggings",
                 "iron_shovel",
-                "chainmail_boots",
+                "iron_ingot",
                 "iron_hoe",
-                "iron_axe",
+                "iron_horse_armor",
+                "chainmail_boots",
                 "iron_helmet",
                 "iron_pickaxe",
-                "chainmail_leggings",
-                "iron_sword",
-                "iron_boots",
-                "iron_chestplate",
                 "chainmail_helmet",
-                "chainmail_chestplate",
-                "iron_horse_armor",
-                "iron_leggings",
-                "iron_shovel",
-                "chainmail_boots",
-                "iron_hoe",
-                "iron_axe",
-                "iron_helmet",
-                "iron_pickaxe",
                 "chainmail_leggings",
+                "chainmail_chestplate",
                 "iron_sword",
-                "iron_ingot"
+                "iron_axe",
+                "iron_chestplate",
+                "iron_leggings",
+                "iron_boots"
             ]
         },
         {
@@ -7282,8 +7207,8 @@
                 "Glow Item Frames"
             ],
             "crafting": [
-                "leather",
-                "stick"
+                "stick",
+                "leather"
             ]
         },
         {
@@ -7334,8 +7259,8 @@
                 "Piston interactivity"
             ],
             "crafting": [
-                "diamond",
-                "planks"
+                "planks",
+                "diamond"
             ]
         },
         {
@@ -7724,7 +7649,6 @@
             ],
             "crafting": [
                 "lapis_ore",
-                "lapis_ore",
                 "lapis_block"
             ]
         },
@@ -7747,8 +7671,8 @@
                 "Leashing mobs"
             ],
             "crafting": [
-                "string",
-                "slime_ball"
+                "slime_ball",
+                "string"
             ]
         },
         {
@@ -7957,8 +7881,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "bookshelf",
-                "wooden_slabs"
+                "wooden_slabs",
+                "bookshelf"
             ]
         },
         {
@@ -8044,10 +7968,10 @@
                 "Placement"
             ],
             "crafting": [
-                "light_blue_dye",
                 "white_bed",
-                "planks",
-                "light_blue_wool"
+                "light_blue_wool",
+                "light_blue_dye",
+                "planks"
             ]
         },
         {
@@ -8071,9 +7995,9 @@
                 "Breaking tall grass and vines"
             ],
             "crafting": [
+                "light_blue_wool",
                 "light_blue_dye",
-                "white_carpet",
-                "light_blue_wool"
+                "white_carpet"
             ]
         },
         {
@@ -8095,8 +8019,8 @@
             ],
             "crafting": [
                 "light_blue_dye",
-                "sand",
-                "gravel"
+                "gravel",
+                "sand"
             ]
         },
         {
@@ -8119,8 +8043,8 @@
                 "Trading"
             ],
             "crafting": [
-                "blue_orchid",
                 "blue_dye",
+                "blue_orchid",
                 "white_dye"
             ]
         },
@@ -8170,8 +8094,8 @@
                 "Trading"
             ],
             "crafting": [
-                "light_blue_dye",
                 "glass_pane",
+                "light_blue_dye",
                 "light_blue_stained_glass"
             ]
         },
@@ -8313,10 +8237,10 @@
                 "Placement"
             ],
             "crafting": [
-                "light_gray_dye",
+                "light_gray_wool",
                 "white_bed",
                 "planks",
-                "light_gray_wool"
+                "light_gray_dye"
             ]
         },
         {
@@ -8340,9 +8264,9 @@
                 "Breaking tall grass and vines"
             ],
             "crafting": [
-                "light_gray_dye",
                 "white_carpet",
-                "light_gray_wool"
+                "light_gray_wool",
+                "light_gray_dye"
             ]
         },
         {
@@ -8363,9 +8287,9 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "light_gray_dye",
                 "sand",
-                "gravel"
+                "gravel",
+                "light_gray_dye"
             ]
         },
         {
@@ -8391,13 +8315,12 @@
                 "Trading"
             ],
             "crafting": [
-                "azure_bluet",
+                "white_dye",
+                "white_tulip",
                 "black_dye",
-                "white_dye",
-                "white_dye",
-                "gray_dye",
                 "oxeye_daisy",
-                "white_tulip"
+                "azure_bluet",
+                "gray_dye"
             ]
         },
         {
@@ -8446,9 +8369,9 @@
                 "Trading"
             ],
             "crafting": [
-                "light_gray_dye",
                 "glass_pane",
-                "light_gray_stained_glass"
+                "light_gray_stained_glass",
+                "light_gray_dye"
             ]
         },
         {
@@ -8497,8 +8420,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "light_gray_dye",
-                "terracotta"
+                "terracotta",
+                "light_gray_dye"
             ]
         },
         {
@@ -8526,8 +8449,8 @@
                 "Fuel"
             ],
             "crafting": [
-                "light_gray_dye",
-                "white_wool"
+                "white_wool",
+                "light_gray_dye"
             ]
         },
         {
@@ -8584,8 +8507,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "lime_wool",
-                "stick"
+                "stick",
+                "lime_wool"
             ]
         },
         {
@@ -8614,10 +8537,10 @@
                 "Placement"
             ],
             "crafting": [
-                "lime_dye",
                 "white_bed",
-                "lime_wool",
-                "planks"
+                "lime_dye",
+                "planks",
+                "lime_wool"
             ]
         },
         {
@@ -8642,8 +8565,8 @@
             ],
             "crafting": [
                 "lime_dye",
-                "white_carpet",
-                "lime_wool"
+                "lime_wool",
+                "white_carpet"
             ]
         },
         {
@@ -8665,8 +8588,8 @@
             ],
             "crafting": [
                 "lime_dye",
-                "sand",
-                "gravel"
+                "gravel",
+                "sand"
             ]
         },
         {
@@ -8741,9 +8664,9 @@
                 "Trading"
             ],
             "crafting": [
-                "lime_dye",
                 "glass_pane",
-                "lime_stained_glass"
+                "lime_stained_glass",
+                "lime_dye"
             ]
         },
         {
@@ -8867,8 +8790,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "string",
-                "planks"
+                "planks",
+                "string"
             ]
         },
         {
@@ -8930,9 +8853,9 @@
                 "Placement"
             ],
             "crafting": [
-                "magenta_dye",
-                "white_bed",
                 "magenta_wool",
+                "white_bed",
+                "magenta_dye",
                 "planks"
             ]
         },
@@ -8957,9 +8880,9 @@
                 "Breaking tall grass and vines"
             ],
             "crafting": [
+                "magenta_wool",
                 "magenta_dye",
-                "white_carpet",
-                "magenta_wool"
+                "white_carpet"
             ]
         },
         {
@@ -8981,8 +8904,8 @@
             ],
             "crafting": [
                 "magenta_dye",
-                "sand",
-                "gravel"
+                "gravel",
+                "sand"
             ]
         },
         {
@@ -9008,16 +8931,13 @@
                 "Trading"
             ],
             "crafting": [
-                "allium",
                 "blue_dye",
                 "red_dye",
                 "pink_dye",
-                "blue_dye",
-                "white_dye",
-                "red_dye",
-                "lilac",
+                "allium",
                 "purple_dye",
-                "pink_dye"
+                "lilac",
+                "white_dye"
             ]
         },
         {
@@ -9066,8 +8986,8 @@
                 "Trading"
             ],
             "crafting": [
-                "magenta_dye",
                 "glass_pane",
+                "magenta_dye",
                 "magenta_stained_glass"
             ]
         },
@@ -9192,8 +9112,8 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "blaze_powder",
-                "slime_ball"
+                "slime_ball",
+                "blaze_powder"
             ]
         },
         {
@@ -9226,8 +9146,8 @@
                 "Achievements"
             ],
             "crafting": [
-                "compass",
-                "paper"
+                "paper",
+                "compass"
             ]
         },
         {
@@ -9345,7 +9265,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "mossy_cobblestone",
                 "mossy_cobblestone"
             ]
         },
@@ -9370,7 +9289,6 @@
                 "Walking"
             ],
             "crafting": [
-                "mossy_cobblestone",
                 "mossy_cobblestone"
             ]
         },
@@ -9394,7 +9312,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "mossy_cobblestone",
                 "mossy_cobblestone"
             ]
         },
@@ -9442,7 +9359,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "mossy_stone_bricks",
                 "mossy_stone_bricks"
             ]
         },
@@ -9467,7 +9383,6 @@
                 "Walking"
             ],
             "crafting": [
-                "mossy_stone_bricks",
                 "mossy_stone_bricks"
             ]
         },
@@ -9491,7 +9406,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "mossy_stone_bricks",
                 "mossy_stone_bricks"
             ]
         },
@@ -9541,8 +9455,8 @@
             ],
             "crafting": [
                 "brown_mushroom",
-                "red_mushroom",
-                "bowl"
+                "bowl",
+                "red_mushroom"
             ]
         },
         {
@@ -9591,7 +9505,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "nether_bricks",
                 "nether_bricks"
             ]
         },
@@ -9616,7 +9529,6 @@
                 "Walking"
             ],
             "crafting": [
-                "nether_bricks",
                 "nether_bricks"
             ]
         },
@@ -9640,7 +9552,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "nether_bricks",
                 "nether_bricks"
             ]
         },
@@ -9904,8 +9815,8 @@
                 "Piglins"
             ],
             "crafting": [
-                "minecraft:netherite_ingot",
-                "diamond_hoe"
+                "diamond_hoe",
+                "minecraft:netherite_ingot"
             ]
         },
         {
@@ -9929,8 +9840,8 @@
                 "Beacons"
             ],
             "crafting": [
-                "netherite_block",
                 "gold_ingot",
+                "netherite_block",
                 "netherite_scrap"
             ]
         },
@@ -10020,7 +9931,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "ancient_debris",
                 "ancient_debris"
             ]
         },
@@ -10097,8 +10007,8 @@
                 "Smelting ingredient"
             ],
             "crafting": [
-                "minecraft:netherite_ingot",
-                "diamond_sword"
+                "diamond_sword",
+                "minecraft:netherite_ingot"
             ]
         },
         {
@@ -10467,8 +10377,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "orange_wool",
-                "stick"
+                "stick",
+                "orange_wool"
             ]
         },
         {
@@ -10499,8 +10409,8 @@
             "crafting": [
                 "orange_dye",
                 "white_bed",
-                "orange_wool",
-                "planks"
+                "planks",
+                "orange_wool"
             ]
         },
         {
@@ -10525,8 +10435,8 @@
             ],
             "crafting": [
                 "orange_dye",
-                "white_carpet",
-                "orange_wool"
+                "orange_wool",
+                "white_carpet"
             ]
         },
         {
@@ -10548,8 +10458,8 @@
             ],
             "crafting": [
                 "orange_dye",
-                "sand",
-                "gravel"
+                "gravel",
+                "sand"
             ]
         },
         {
@@ -10572,9 +10482,9 @@
                 "Trading"
             ],
             "crafting": [
-                "orange_tulip",
                 "red_dye",
-                "yellow_dye"
+                "yellow_dye",
+                "orange_tulip"
             ]
         },
         {
@@ -10806,8 +10716,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "pink_wool",
-                "stick"
+                "stick",
+                "pink_wool"
             ]
         },
         {
@@ -10837,8 +10747,8 @@
             ],
             "crafting": [
                 "pink_dye",
-                "white_bed",
                 "pink_wool",
+                "white_bed",
                 "planks"
             ]
         },
@@ -10864,8 +10774,8 @@
             ],
             "crafting": [
                 "pink_dye",
-                "white_carpet",
-                "pink_wool"
+                "pink_wool",
+                "white_carpet"
             ]
         },
         {
@@ -10886,9 +10796,9 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "gravel",
+                "pink_dye",
                 "sand",
-                "pink_dye"
+                "gravel"
             ]
         },
         {
@@ -10911,10 +10821,10 @@
                 "Loom ingredient"
             ],
             "crafting": [
-                "peony",
-                "pink_tulip",
                 "red_dye",
-                "white_dye"
+                "white_dye",
+                "peony",
+                "pink_tulip"
             ]
         },
         {
@@ -10963,8 +10873,8 @@
                 "Trading"
             ],
             "crafting": [
-                "glass_pane",
                 "pink_dye",
+                "glass_pane",
                 "pink_stained_glass"
             ]
         },
@@ -11075,9 +10985,9 @@
             ],
             "crafting": [
                 "cobblestone",
-                "iron_ingot",
                 "redstone",
-                "planks"
+                "planks",
+                "iron_ingot"
             ]
         },
         {
@@ -11104,7 +11014,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "andesite",
                 "andesite"
             ]
         },
@@ -11131,7 +11040,6 @@
             ],
             "crafting": [
                 "andesite",
-                "polished_andesite",
                 "polished_andesite"
             ]
         },
@@ -11158,7 +11066,6 @@
             ],
             "crafting": [
                 "andesite",
-                "polished_andesite",
                 "polished_andesite"
             ]
         },
@@ -11184,7 +11091,6 @@
                 "Smelting ingredient"
             ],
             "crafting": [
-                "basalt",
                 "basalt"
             ]
         },
@@ -11213,7 +11119,6 @@
             "crafting": [
                 "blackstone",
                 "polished_blackstone",
-                "polished_blackstone_bricks",
                 "polished_blackstone_bricks"
             ]
         },
@@ -11241,7 +11146,6 @@
             ],
             "crafting": [
                 "blackstone",
-                "polished_blackstone_bricks",
                 "polished_blackstone",
                 "polished_blackstone_bricks"
             ]
@@ -11269,7 +11173,6 @@
             ],
             "crafting": [
                 "blackstone",
-                "polished_blackstone_bricks",
                 "polished_blackstone",
                 "polished_blackstone_bricks"
             ]
@@ -11298,7 +11201,6 @@
             ],
             "crafting": [
                 "blackstone",
-                "polished_blackstone",
                 "polished_blackstone"
             ]
         },
@@ -11345,7 +11247,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "blackstone",
                 "blackstone"
             ]
         },
@@ -11397,7 +11298,6 @@
             ],
             "crafting": [
                 "blackstone",
-                "polished_blackstone",
                 "polished_blackstone"
             ]
         },
@@ -11424,7 +11324,6 @@
             ],
             "crafting": [
                 "blackstone",
-                "polished_blackstone",
                 "polished_blackstone"
             ]
         },
@@ -11450,7 +11349,6 @@
             ],
             "crafting": [
                 "blackstone",
-                "polished_blackstone",
                 "polished_blackstone"
             ]
         },
@@ -11478,7 +11376,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "diorite",
                 "diorite"
             ]
         },
@@ -11505,7 +11402,6 @@
             ],
             "crafting": [
                 "diorite",
-                "polished_diorite",
                 "polished_diorite"
             ]
         },
@@ -11532,7 +11428,6 @@
             ],
             "crafting": [
                 "diorite",
-                "polished_diorite",
                 "polished_diorite"
             ]
         },
@@ -11560,7 +11455,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "granite",
                 "granite"
             ]
         },
@@ -11587,7 +11481,6 @@
             ],
             "crafting": [
                 "granite",
-                "polished_granite",
                 "polished_granite"
             ]
         },
@@ -11614,7 +11507,6 @@
             ],
             "crafting": [
                 "granite",
-                "polished_granite",
                 "polished_granite"
             ]
         },
@@ -11682,7 +11574,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "prismarine_bricks",
                 "prismarine_bricks"
             ]
         },
@@ -11707,7 +11598,6 @@
                 "Walking"
             ],
             "crafting": [
-                "prismarine_bricks",
                 "prismarine_bricks"
             ]
         },
@@ -11756,7 +11646,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "prismarine",
                 "prismarine"
             ]
         },
@@ -11781,7 +11670,6 @@
                 "Walking"
             ],
             "crafting": [
-                "prismarine",
                 "prismarine"
             ]
         },
@@ -11805,7 +11693,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "prismarine",
                 "prismarine"
             ]
         },
@@ -11852,8 +11739,8 @@
                 "Composting"
             ],
             "crafting": [
-                "egg",
                 "sugar",
+                "egg",
                 "pumpkin"
             ]
         },
@@ -11914,8 +11801,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "purple_wool",
-                "stick"
+                "stick",
+                "purple_wool"
             ]
         },
         {
@@ -11946,8 +11833,8 @@
             "crafting": [
                 "purple_dye",
                 "white_bed",
-                "purple_wool",
-                "planks"
+                "planks",
+                "purple_wool"
             ]
         },
         {
@@ -11972,8 +11859,8 @@
             ],
             "crafting": [
                 "purple_dye",
-                "white_carpet",
-                "purple_wool"
+                "purple_wool",
+                "white_carpet"
             ]
         },
         {
@@ -11994,9 +11881,9 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "gravel",
+                "purple_dye",
                 "sand",
-                "purple_dye"
+                "gravel"
             ]
         },
         {
@@ -12068,8 +11955,8 @@
                 "Trading"
             ],
             "crafting": [
-                "glass_pane",
                 "purple_dye",
+                "glass_pane",
                 "purple_stained_glass"
             ]
         },
@@ -12223,9 +12110,8 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "purpur_block",
-                "purpur_block",
-                "purpur_pillar"
+                "purpur_pillar",
+                "purpur_block"
             ]
         },
         {
@@ -12249,9 +12135,8 @@
                 "Walking"
             ],
             "crafting": [
-                "purpur_block",
-                "purpur_block",
-                "purpur_pillar"
+                "purpur_pillar",
+                "purpur_block"
             ]
         },
         {
@@ -12304,7 +12189,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "quartz_block",
                 "quartz_block"
             ]
         },
@@ -12344,7 +12228,6 @@
                 "Advertise"
             ],
             "crafting": [
-                "nether_quartz_ore",
                 "nether_quartz_ore"
             ]
         },
@@ -12372,7 +12255,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "quartz_block",
                 "quartz_block"
             ]
         },
@@ -12398,9 +12280,8 @@
             ],
             "crafting": [
                 "quartz_block",
-                "quartz_pillar",
-                "quartz_block",
-                "chiseled_quartz_block"
+                "chiseled_quartz_block",
+                "quartz_pillar"
             ]
         },
         {
@@ -12425,9 +12306,8 @@
             ],
             "crafting": [
                 "quartz_block",
-                "quartz_pillar",
-                "quartz_block",
-                "chiseled_quartz_block"
+                "chiseled_quartz_block",
+                "quartz_pillar"
             ]
         },
         {
@@ -12449,16 +12329,12 @@
                 "Wolves"
             ],
             "crafting": [
-                "baked_potato",
                 "carrot",
                 "brown_mushroom",
                 "bowl",
+                "red_mushroom",
                 "cooked_rabbit",
-                "baked_potato",
-                "carrot",
-                "bowl",
-                "cooked_rabbit",
-                "red_mushroom"
+                "baked_potato"
             ]
         },
         {
@@ -12520,8 +12396,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "red_wool",
-                "stick"
+                "stick",
+                "red_wool"
             ]
         },
         {
@@ -12550,10 +12426,10 @@
                 "Placement"
             ],
             "crafting": [
-                "red_dye",
                 "white_bed",
-                "red_wool",
-                "planks"
+                "red_dye",
+                "planks",
+                "red_wool"
             ]
         },
         {
@@ -12578,8 +12454,8 @@
             ],
             "crafting": [
                 "red_dye",
-                "white_carpet",
-                "red_wool"
+                "red_wool",
+                "white_carpet"
             ]
         },
         {
@@ -12601,8 +12477,8 @@
             ],
             "crafting": [
                 "red_dye",
-                "sand",
-                "gravel"
+                "gravel",
+                "sand"
             ]
         },
         {
@@ -12627,10 +12503,10 @@
                 "Trading"
             ],
             "crafting": [
-                "beetroot",
+                "red_tulip",
                 "poppy",
                 "rose_bush",
-                "red_tulip"
+                "beetroot"
             ]
         },
         {
@@ -12678,7 +12554,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "red_nether_bricks",
                 "red_nether_bricks"
             ]
         },
@@ -12703,7 +12578,6 @@
                 "Walking"
             ],
             "crafting": [
-                "red_nether_bricks",
                 "red_nether_bricks"
             ]
         },
@@ -12727,7 +12601,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "red_nether_bricks",
                 "red_nether_bricks"
             ]
         },
@@ -12752,8 +12625,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "nether_brick",
-                "nether_wart"
+                "nether_wart",
+                "nether_brick"
             ]
         },
         {
@@ -12778,8 +12651,7 @@
             ],
             "crafting": [
                 "red_sandstone",
-                "chiseled_red_sandstone",
-                "red_sandstone"
+                "chiseled_red_sandstone"
             ]
         },
         {
@@ -12805,8 +12677,7 @@
             "crafting": [
                 "red_sandstone",
                 "cut_red_sandstone",
-                "chiseled_red_sandstone",
-                "red_sandstone"
+                "chiseled_red_sandstone"
             ]
         },
         {
@@ -12829,7 +12700,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "red_sandstone",
                 "red_sandstone"
             ]
         },
@@ -12880,9 +12750,9 @@
                 "Trading"
             ],
             "crafting": [
-                "red_dye",
+                "red_stained_glass",
                 "glass_pane",
-                "red_stained_glass"
+                "red_dye"
             ]
         },
         {
@@ -13014,7 +12884,6 @@
             ],
             "crafting": [
                 "redstone_ore",
-                "redstone_ore",
                 "redstone_block"
             ]
         },
@@ -13033,8 +12902,8 @@
             ],
             "usage": [],
             "crafting": [
-                "glowstone",
-                "redstone"
+                "redstone",
+                "glowstone"
             ]
         },
         {
@@ -13056,8 +12925,8 @@
                 "Redstone component"
             ],
             "crafting": [
-                "redstone",
-                "stick"
+                "stick",
+                "redstone"
             ]
         },
         {
@@ -13083,8 +12952,8 @@
             ],
             "crafting": [
                 "stone",
-                "redstone_torch",
-                "redstone"
+                "redstone",
+                "redstone_torch"
             ]
         },
         {
@@ -13134,8 +13003,7 @@
             ],
             "crafting": [
                 "sandstone",
-                "chiseled_sandstone",
-                "sandstone"
+                "chiseled_sandstone"
             ]
         },
         {
@@ -13161,7 +13029,6 @@
             "crafting": [
                 "sandstone",
                 "chiseled_sandstone",
-                "sandstone",
                 "cut_sandstone"
             ]
         },
@@ -13185,7 +13052,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "sandstone",
                 "sandstone"
             ]
         },
@@ -13231,8 +13097,8 @@
                 "Fuel"
             ],
             "crafting": [
-                "string",
-                "bamboo"
+                "bamboo",
+                "string"
             ]
         },
         {
@@ -13470,7 +13336,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "smooth_quartz",
                 "smooth_quartz"
             ]
         },
@@ -13495,7 +13360,6 @@
                 "Walking"
             ],
             "crafting": [
-                "smooth_quartz",
                 "smooth_quartz"
             ]
         },
@@ -13543,7 +13407,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "smooth_red_sandstone",
                 "smooth_red_sandstone"
             ]
         },
@@ -13568,7 +13431,6 @@
                 "Walking"
             ],
             "crafting": [
-                "smooth_red_sandstone",
                 "smooth_red_sandstone"
             ]
         },
@@ -13618,7 +13480,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "smooth_sandstone",
                 "smooth_sandstone"
             ]
         },
@@ -13643,7 +13504,6 @@
                 "Walking"
             ],
             "crafting": [
-                "smooth_sandstone",
                 "smooth_sandstone"
             ]
         },
@@ -13693,7 +13553,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "smooth_stone",
                 "smooth_stone"
             ]
         },
@@ -13820,8 +13679,8 @@
                 "Piglins"
             ],
             "crafting": [
-                "soul_torch",
-                "iron_nugget"
+                "iron_nugget",
+                "soul_torch"
             ]
         },
         {
@@ -13846,9 +13705,9 @@
             ],
             "crafting": [
                 "coal",
-                "soul_fire_base_blocks",
+                "stick",
                 "charcoal",
-                "stick"
+                "soul_fire_base_blocks"
             ]
         },
         {
@@ -13995,8 +13854,8 @@
                 "Helmet"
             ],
             "crafting": [
-                "spruce_planks",
-                "stick"
+                "stick",
+                "spruce_planks"
             ]
         },
         {
@@ -14020,8 +13879,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "spruce_planks",
-                "stick"
+                "stick",
+                "spruce_planks"
             ]
         },
         {
@@ -14096,8 +13955,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "spruce_planks",
-                "stick"
+                "stick",
+                "spruce_planks"
             ]
         },
         {
@@ -14317,7 +14176,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "stone_bricks",
                 "stone",
                 "stone_bricks"
             ]
@@ -14344,7 +14202,6 @@
                 "Walking"
             ],
             "crafting": [
-                "stone_bricks",
                 "stone",
                 "stone_bricks"
             ]
@@ -14370,7 +14227,6 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "stone_bricks",
                 "stone",
                 "stone_bricks"
             ]
@@ -14400,7 +14256,6 @@
                 "Silverfish"
             ],
             "crafting": [
-                "stone",
                 "stone"
             ]
         },
@@ -14582,7 +14437,6 @@
                 "Crafting ingredient"
             ],
             "crafting": [
-                "stone",
                 "stone"
             ]
         },
@@ -14607,7 +14461,6 @@
                 "Walking"
             ],
             "crafting": [
-                "stone",
                 "stone"
             ]
         },
@@ -14983,13 +14836,18 @@
             "tab": "transportation",
             "group": "tnt_minecart",
             "dimension": "overworld",
-            "url": "",
-            "obtaining": [],
+            "url": "https://minecraft.fandom.com/wiki/Minecart_with_TNT",
+            "obtaining": [
+                "Crafting"
+            ],
             "recipes": [
                 "tnt_minecart"
             ],
             "usage": [],
-            "crafting": []
+            "crafting": [
+                "tnt",
+                "minecart"
+            ]
         },
         {
             "id": "tnt",
@@ -15035,8 +14893,8 @@
             ],
             "crafting": [
                 "coal",
-                "charcoal",
-                "stick"
+                "stick",
+                "charcoal"
             ]
         },
         {
@@ -15181,8 +15039,8 @@
                 "Helmet"
             ],
             "crafting": [
-                "warped_planks",
-                "stick"
+                "stick",
+                "warped_planks"
             ]
         },
         {
@@ -15206,8 +15064,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "warped_planks",
-                "stick"
+                "stick",
+                "warped_planks"
             ]
         },
         {
@@ -15329,8 +15187,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "warped_planks",
-                "stick"
+                "stick",
+                "warped_planks"
             ]
         },
         {
@@ -15460,8 +15318,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "white_wool",
-                "stick"
+                "stick",
+                "white_wool"
             ]
         },
         {
@@ -15535,8 +15393,8 @@
             ],
             "crafting": [
                 "white_dye",
-                "sand",
-                "gravel"
+                "gravel",
+                "sand"
             ]
         },
         {
@@ -15558,8 +15416,8 @@
                 "Trading"
             ],
             "crafting": [
-                "lily_of_the_valley",
-                "bone_meal"
+                "bone_meal",
+                "lily_of_the_valley"
             ]
         },
         {
@@ -15608,8 +15466,8 @@
                 "Trading"
             ],
             "crafting": [
-                "white_dye",
                 "glass_pane",
+                "white_dye",
                 "white_stained_glass"
             ]
         },
@@ -15898,9 +15756,9 @@
                 "Trading"
             ],
             "crafting": [
-                "ink_sac",
+                "feather",
                 "book",
-                "feather"
+                "ink_sac"
             ]
         },
         {
@@ -15932,8 +15790,8 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "yellow_wool",
-                "stick"
+                "stick",
+                "yellow_wool"
             ]
         },
         {
@@ -15962,10 +15820,10 @@
                 "Placement"
             ],
             "crafting": [
-                "yellow_dye",
                 "white_bed",
-                "yellow_wool",
-                "planks"
+                "yellow_dye",
+                "planks",
+                "yellow_wool"
             ]
         },
         {
@@ -15989,9 +15847,9 @@
                 "Breaking tall grass and vines"
             ],
             "crafting": [
+                "yellow_wool",
                 "yellow_dye",
-                "white_carpet",
-                "yellow_wool"
+                "white_carpet"
             ]
         },
         {
@@ -16012,9 +15870,9 @@
                 "Note Blocks"
             ],
             "crafting": [
-                "sand",
+                "yellow_dye",
                 "gravel",
-                "yellow_dye"
+                "sand"
             ]
         },
         {
@@ -16089,8 +15947,8 @@
             ],
             "crafting": [
                 "glass_pane",
-                "yellow_dye",
-                "yellow_stained_glass"
+                "yellow_stained_glass",
+                "yellow_dye"
             ]
         },
         {
