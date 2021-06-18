@@ -16,9 +16,9 @@
     <script src="../js/jquery-3.6.0.min.js"></script>
     <script>
       window.addEventListener('DOMContentLoaded', function(){
-        $(".logo-search").load("../header.html");
-        $(".menu-nav").load("../nav.html");
-        $(".footer-contents").load("../footer.html");
+        // $(".logo-search").load("../header.html");
+        // $(".menu-nav").load("../nav.html");
+        // $(".footer-contents").load("../footer.html");
       });
     </script>
   </head>
@@ -53,8 +53,53 @@
         </div>
       </div>
       <div id="inventory-items"></div>
-      <div id="recipes"></div>
+      <div id="recipes">
+        <svg width="900" height="900" style="background-color:#ddd"></svg>
+        <div id="datatip">
+          <h2></h2>
+          <p></p>
+        </div>
+        <div id="sidebar">
+          <section id= "side_setting">
+            <h3>Setting</h3>
+            <div class="slide">
+              <input id="rng_zoom" type="range" min="-2" max="2" value="0" step="0.1" oninput="InputZoom();">
+              Zoom: <span id="r_zoom_text">100</span>
+            </div>
+            <!--Group  : <input id="num_group" type="number" min="0" max="12" value="" step="1">-->
+            <div class="pulldown">
+              Group  : 
+              <select>
+                <option selected>グループを選択してください．</option>
+                <option>a</option>
+                <option>b</option>
+              </select>
+              <input type="submit" value="set" id="btn_group" onclick="UpdateNodeLink();">
+            </div>
+          </section>
+          <section id= "side_search">
+            <h3>Search</h3>
+            <input type="text" name="group_id" id="txt_search">
+            <input type="submit" value="検索" id="btn_search" onclick="OnClickSearch();">
+          </section>
+          <section id= "side_data">
+            <h3>Data</h3>
+            <h4></h4>
+            <iframe id="data_memo" seamless height=300 width=220 sandbox="allow-same-origin"></iframe>
+            <iframe id="data_relation" seamless height=140 width=220 sandbox="allow-same-origin"></iframe>
+          </section>
+          <!-- <div id="scaleFactorSettings">
+            <p>Scale of the groups: <span id='scaleFactorLabel'>1.2</span></p>
+            <input type="range" min="1" max="3" value="1.2" step=".1" 
+              oninput="scaleFactor = value; d3.select('#scaleFactorLabel').text(scaleFactor); updateGroups()">
+          </div>
+          <div id="curveSettings">
+            <p>Type of curve: <span id='curveLabel'>curveCatmullRomClosed</span></p>
+          </div> -->
+        </div>
+      </div>
     </article>
+    <script src="../js/d3.v4.min.js"></script>
     <script src="../js/recipes.js"></script>
   </body>
   <footer class="footer-contents"></footer>
