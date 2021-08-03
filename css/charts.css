@@ -1,0 +1,63 @@
+#chart {
+    display: flex;
+}
+
+#chart-container {
+    width: 600px;
+    height: 600px;
+    padding: 0 10px 0 10px;
+}
+
+#item-tooltip {
+    position: absolute;
+    min-width: 100px;
+    min-height: 50px;
+    background-color: #fff;
+    border: 1px solid #999;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+    cursor: auto;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+#item-tooltip-body {
+    padding: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-width: inherit;
+    max-height: 180px;
+}
+
+#item-tooltip > .arrow {
+    width: 0;
+    height: 0;
+    border: solid 10px transparent;
+    border-top: solid 10px #697b91;
+    position: absolute;
+    top: 50px;
+    left: 37px;
+}
+
+.sigma-scene {
+    border: solid 1px #999;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+}
+
+#item-info {
+    padding: 10px;
+    width: 30%;
+    border: solid 1px #999;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+}
+
+#item-info > a {
+    word-break: break-word;
+}
+
+#item-info > h2 {
+    border-bottom: solid 2px #000;
+    height: 40px;
+}
